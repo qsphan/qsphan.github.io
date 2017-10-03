@@ -1,0 +1,1655 @@
+digraph genealogy {
+	graph [_draw_="c 9 -#fffffe00 C 7 -#ffffff P 4 0 0 0 3432 3966 3432 3966 0 ",
+		bb="0,0,3966,3432",
+		charset="utf-8",
+		xdotversion=1.6
+	];
+	node [label="\N",
+		shape=plaintext
+	];
+	edge [style=bold];
+	215752	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1971 22.8 0 100 16 -Quoc-Sang  Phan  F 14 11 -Times-Roman c 7 -#000000 T 1971 7.8 0 235 39 -Queen \
+Mary, University of London (2015) ",
+		height=0.52778,
+		label="Quoc-Sang  Phan \nQueen Mary, University of London (2015)",
+		pos="1971,19",
+		width=3.4792];
+	119793	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1971 96.8 0 115 20 -Pasquale  Malacaria  F 14 11 -Times-Roman c 7 -#000000 T 1971 81.8 0 222 \
+42 -Université Paris Diderot - Paris 7 (1993) ",
+		height=0.52778,
+		label="Pasquale  Malacaria \nUniversité Paris Diderot - Paris 7 (1993)",
+		pos="1971,93",
+		width=3.3056];
+	119793 -> 215752	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1971 73.83 1971 66.13 1971 56.97 1971 48.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1974.5 48.41 1971 38.41 1967.5 48.41 ",
+		pos="e,1971,38.413 1971,73.831 1971,66.131 1971,56.974 1971,48.417"];
+	82341	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1971 170.8 0 103 18 -Jean-Yves  Girard  F 14 11 -Times-Roman c 7 -#000000 T 1971 155.8 0 222 \
+42 -Université Paris Diderot - Paris 7 (1972) ",
+		height=0.52778,
+		label="Jean-Yves  Girard \nUniversité Paris Diderot - Paris 7 (1972)",
+		pos="1971,167",
+		width=3.3056];
+	82341 -> 119793	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1971 147.83 1971 140.13 1971 130.97 1971 122.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1974.5 122.41 1971 112.41 1967.5 122.41 ",
+		pos="e,1971,112.41 1971,147.83 1971,140.13 1971,130.97 1971,122.42"];
+	74339	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1971 244.8 0 112 20 -Jean-Louis  Krivine  F 14 11 -Times-Roman c 7 -#000000 T 1971 229.8 0 144 \
+27 -Université de Paris (1967) ",
+		height=0.52778,
+		label="Jean-Louis  Krivine \nUniversité de Paris (1967)",
+		pos="1971,241",
+		width=2.2222];
+	74339 -> 82341	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1971 221.83 1971 214.13 1971 204.97 1971 196.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1974.5 196.41 1971 186.41 1967.5 196.41 ",
+		pos="e,1971,186.41 1971,221.83 1971,214.13 1971,204.97 1971,196.42"];
+	77455	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1971 318.8 0 114 20 -Jean-Pierre  Kahane  F 14 11 -Times-Roman c 7 -#000000 T 1971 303.8 0 277 \
+51 -Centre national de la recherche scientifique (1954) ",
+		height=0.52778,
+		label="Jean-Pierre  Kahane \nCentre national de la recherche scientifique (1954)",
+		pos="1971,315",
+		width=4.0625];
+	77455 -> 74339	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1971 295.83 1971 288.13 1971 278.97 1971 270.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1974.5 270.41 1971 260.41 1967.5 270.41 ",
+		pos="e,1971,260.41 1971,295.83 1971,288.13 1971,278.97 1971,270.42"];
+	22456	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1971 392.8 0 121 20 -Szolem  Mandelbrojt  F 14 11 -Times-Roman c 7 -#000000 T 1971 377.8 0 202 \
+36 -Université Paris IV-Sorbonne (1923) ",
+		height=0.52778,
+		label="Szolem  Mandelbrojt \nUniversité Paris IV-Sorbonne (1923)",
+		pos="1971,389",
+		width=3.0278];
+	22456 -> 77455	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1971 369.83 1971 362.13 1971 352.97 1971 344.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1974.5 344.41 1971 334.41 1967.5 344.41 ",
+		pos="e,1971,334.41 1971,369.83 1971,362.13 1971,352.97 1971,344.42"];
+	24555	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1971 466.8 0 160 25 -Jacques Salomon Hadamard  F 14 11 -Times-Roman c 7 -#000000 T 1971 451.8 \
+0 216 39 -École Normale Supérieure Paris (1892) ",
+		height=0.52778,
+		label="Jacques Salomon Hadamard \nÉcole Normale Supérieure Paris (1892)",
+		pos="1971,463",
+		width=3.2083];
+	24555 -> 22456	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1971 443.83 1971 436.13 1971 426.97 1971 418.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1974.5 418.41 1971 408.41 1967.5 418.41 ",
+		pos="e,1971,408.41 1971,443.83 1971,436.13 1971,426.97 1971,418.42"];
+	34260	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2096 540.8 0 84 15 -Jules  Tannery  F 14 11 -Times-Roman c 7 -#000000 T 2096 525.8 0 216 39 \
+-École Normale Supérieure Paris (1874) ",
+		height=0.52778,
+		label="Jules  Tannery \nÉcole Normale Supérieure Paris (1874)",
+		pos="2096,537",
+		width=3.2083];
+	34260 -> 24555	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2064.46 517.83 2048.32 508.54 2028.5 497.12 2011.27 487.2 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2012.94 484.12 2002.53 482.16 2009.45 490.19 ",
+		pos="e,2002.5,482.16 2064.5,517.83 2048.3,508.54 2028.5,497.12 2011.3,487.2"];
+	32960	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2093 614.8 0 98 17 -Charles  Hermite  F 14 11 -Times-Roman c 7 -#000000 T 2093 599.8 0 152 27 \
+-École Polytechnique (1841) ",
+		height=0.52778,
+		label="Charles  Hermite \nÉcole Polytechnique (1841)",
+		pos="2093,611",
+		width=2.3194];
+	32960 -> 34260	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2093.76 591.83 2094.08 584.13 2094.46 574.97 2094.82 566.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2098.31 566.55 2095.23 556.41 2091.32 566.26 ",
+		pos="e,2095.2,556.41 2093.8,591.83 2094.1,584.13 2094.5,574.97 2094.8,566.42"];
+	100550	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2089 688.8 0 139 25 -Eugène-Charles  Catalan  F 14 11 -Times-Roman c 7 -#000000 T 2089 673.8 \
+0 144 27 -Université de Paris (1841) ",
+		height=0.52778,
+		label="Eugène-Charles  Catalan \nUniversité de Paris (1841)",
+		pos="2089,685",
+		width=2.2222];
+	100550 -> 32960	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2090.01 665.83 2090.44 658.13 2090.95 648.97 2091.42 640.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2094.92 640.59 2091.98 630.41 2087.93 640.2 ",
+		pos="e,2092,630.41 2090,665.83 2090.4,658.13 2090.9,648.97 2091.4,640.42"];
+	55185	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2068 762.8 0 98 18 -Joseph  Liouville  F 14 11 -Times-Roman c 7 -#000000 T 2068 747.8 0 187 \
+35 -Faculté des Sciences, Paris (1836) ",
+		height=0.52778,
+		label="Joseph  Liouville \nFaculté des Sciences, Paris (1836)",
+		pos="2068,759",
+		width=2.8125];
+	55185 -> 100550	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2073.3 739.83 2075.57 732.05 2078.27 722.77 2080.79 714.13 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2084.19 714.99 2083.63 704.41 2077.47 713.03 ",
+		pos="e,2083.6,704.41 2073.3,739.83 2075.6,732.05 2078.3,722.77 2080.8,714.13"];
+	104652	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2068 836.8 0 130 22 -Louis Jacques Thenard  F 14 11 -Times-Roman c 7 -#000000 T 2068 821.8 0 \
+112 20 -École Polytechnique ",
+		height=0.52778,
+		label="Louis Jacques Thenard \nÉcole Polytechnique",
+		pos="2068,833",
+		width=2.0278];
+	104652 -> 55185	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2068 813.83 2068 806.13 2068 796.97 2068 788.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2071.5 788.41 2068 778.41 2064.5 788.41 ",
+		pos="e,2068,778.41 2068,813.83 2068,806.13 2068,796.97 2068,788.42"];
+	158571	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2068 903.3 0 136 23 -Nicolas Louis Vauquelin ",
+		height=0.5,
+		label="Nicolas Louis Vauquelin",
+		pos="2068,907",
+		width=2.1111];
+	158571 -> 104652	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2068 888.94 2068 880.99 2068 871.31 2068 862.31 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2071.5 862.2 2068 852.2 2064.5 862.2 ",
+		pos="e,2068,852.2 2068,888.94 2068,880.99 2068,871.31 2068,862.31"];
+	158735	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2068 984.8 0 168 29 -Antoine Francois de Fourcroy  F 14 11 -Times-Roman c 7 -#000000 T 2068 \
+969.8 0 104 20 -Université de Paris ",
+		height=0.52778,
+		label="Antoine Francois de Fourcroy \nUniversité de Paris",
+		pos="2068,981",
+		width=2.5556];
+	158735 -> 158571	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2068 961.83 2068 953.89 2068 944.41 2068 935.63 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2071.5 935.42 2068 925.42 2064.5 935.42 ",
+		pos="e,2068,925.42 2068,961.83 2068,953.89 2068,944.41 2068,935.63"];
+	158900	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2068 1058.8 0 168 29 -Jean Baptiste Michel Bucquet  F 14 11 -Times-Roman c 7 -#000000 T 2068 \
+1043.8 0 144 27 -Université de Paris (1768) ",
+		height=0.52778,
+		label="Jean Baptiste Michel Bucquet \nUniversité de Paris (1768)",
+		pos="2068,1055",
+		width=2.5556];
+	158900 -> 158735	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2068 1035.83 2068 1028.13 2068 1018.97 2068 1010.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2071.5 1010.41 2068 1000.41 2064.5 1010.41 ",
+		pos="e,2068,1000.4 2068,1035.8 2068,1028.1 2068,1019 2068,1010.4"];
+	159761	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2068 1132.8 0 130 22 -Pierre Joseph Macquer  F 14 11 -Times-Roman c 7 -#000000 T 2068 1117.8 \
+0 144 27 -Université de Paris (1742) ",
+		height=0.52778,
+		label="Pierre Joseph Macquer \nUniversité de Paris (1742)",
+		pos="2068,1129",
+		width=2.2222];
+	159761 -> 158900	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2068 1109.83 2068 1102.13 2068 1092.97 2068 1084.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2071.5 1084.41 2068 1074.41 2064.5 1084.41 ",
+		pos="e,2068,1074.4 2068,1109.8 2068,1102.1 2068,1093 2068,1084.4"];
+	167450	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2068 1206.8 0 156 27 -Gillaume-Francois  Rouelle  F 14 11 -Times-Roman c 7 -#000000 T 2068 1191.8 \
+0 144 27 -Université de Paris (1725) ",
+		height=0.52778,
+		label="Gillaume-Francois  Rouelle \nUniversité de Paris (1725)",
+		pos="2068,1203",
+		width=2.3889];
+	167450 -> 159761	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2068 1183.83 2068 1176.13 2068 1166.97 2068 1158.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2071.5 1158.41 2068 1148.41 2064.5 1158.41 ",
+		pos="e,2068,1148.4 2068,1183.8 2068,1176.1 2068,1167 2068,1158.4"];
+	168615	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2068 1280.8 0 136 24 -Johann Gottlob Spitzley  F 14 11 -Times-Roman c 7 -#000000 T 2068 1265.8 \
+0 74 13 -Jardin du Roi ",
+		height=0.52778,
+		label="Johann Gottlob Spitzley \nJardin du Roi",
+		pos="2068,1277",
+		width=2.1111];
+	168615 -> 167450	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2068 1257.83 2068 1250.13 2068 1240.97 2068 1232.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2071.5 1232.41 2068 1222.41 2064.5 1232.41 ",
+		pos="e,2068,1222.4 2068,1257.8 2068,1250.1 2068,1241 2068,1232.4"];
+	169018	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2068 1354.8 0 96 16 -Nicolas  Lemery  F 14 11 -Times-Roman c 7 -#000000 T 2068 1339.8 0 74 13 \
+-Jardin du Roi ",
+		height=0.52778,
+		label="Nicolas  Lemery \nJardin du Roi",
+		pos="2068,1351",
+		width=1.5417];
+	169018 -> 168615	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2068 1331.83 2068 1324.13 2068 1314.97 2068 1306.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2071.5 1306.41 2068 1296.41 2064.5 1306.41 ",
+		pos="e,2068,1296.4 2068,1331.8 2068,1324.1 2068,1315 2068,1306.4"];
+	170525	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2068 1428.8 0 131 23 -Christoph Jacob Glaser  F 14 11 -Times-Roman c 7 -#000000 T 2068 1413.8 \
+0 144 27 -Universität Altdorf (1688) ",
+		height=0.52778,
+		label="Christoph Jacob Glaser \nUniversität Altdorf (1688)",
+		pos="2068,1425",
+		width=2.2222];
+	170525 -> 169018	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2068 1405.83 2068 1398.13 2068 1388.97 2068 1380.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2071.5 1380.41 2068 1370.41 2064.5 1380.41 ",
+		pos="e,2068,1370.4 2068,1405.8 2068,1398.1 2068,1389 2068,1380.4"];
+	17240	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2068 1502.8 0 137 23 -Johann Christoph Sturm  F 14 11 -Times-Roman c 7 -#000000 T 2068 1487.8 \
+0 229 43 -Friedrich-Schiller-Universität Jena (1662) ",
+		height=0.52778,
+		label="Johann Christoph Sturm \nFriedrich-Schiller-Universität Jena (1662)",
+		pos="2068,1499",
+		width=3.3958];
+	17240 -> 170525	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2068 1479.83 2068 1472.13 2068 1462.97 2068 1454.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2071.5 1454.41 2068 1444.41 2064.5 1454.41 ",
+		pos="e,2068,1444.4 2068,1479.8 2068,1472.1 2068,1463 2068,1454.4"];
+	115139	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2289 1576.8 0 106 18 -Johannes  de Raey  F 14 11 -Times-Roman c 7 -#000000 T 2289 1561.8 0 280 \
+51 -Universiteit Leiden and Universiteit Utrecht (1641) ",
+		height=0.52778,
+		label="Johannes  de Raey \nUniversiteit Leiden and Universiteit Utrecht (1641)",
+		pos="2289,1573",
+		width=4.1111];
+	115139 -> 17240	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2233.52 1553.92 2203.04 1544 2165.07 1531.63 2133.19 1521.24 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2134.1 1517.85 2123.51 1518.08 2131.93 1524.51 ",
+		pos="e,2123.5,1518.1 2233.5,1553.9 2203,1544 2165.1,1531.6 2133.2,1521.2"];
+	115095	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2289 1650.8 0 119 20 -Adriaan  Heereboord  F 14 11 -Times-Roman c 7 -#000000 T 2289 1635.8 0 \
+145 26 -Universiteit Leiden (1631) ",
+		height=0.52778,
+		label="Adriaan  Heereboord \nUniversiteit Leiden (1631)",
+		pos="2289,1647",
+		width=2.2292];
+	115095 -> 115139	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2289 1627.83 2289 1620.13 2289 1610.97 2289 1602.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2292.5 1602.41 2289 1592.41 2285.5 1602.41 ",
+		pos="e,2289,1592.4 2289,1627.8 2289,1620.1 2289,1611 2289,1602.4"];
+	115008	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2289 1724.8 0 176 31 -Franck Pieterszoon Burgersdijk  F 14 11 -Times-Roman c 7 -#000000 T 2289 \
+1709.8 0 145 26 -Universiteit Leiden (1614) ",
+		height=0.52778,
+		label="Franck Pieterszoon Burgersdijk \nUniversiteit Leiden (1614)",
+		pos="2289,1721",
+		width=2.6667];
+	115008 -> 115095	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2289 1701.83 2289 1694.13 2289 1684.97 2289 1676.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2292.5 1676.41 2289 1666.41 2285.5 1676.41 ",
+		pos="e,2289,1666.4 2289,1701.8 2289,1694.1 2289,1685 2289,1676.4"];
+	114992	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2289 1798.8 0 104 19 -Gilbert  Jacchaeus  F 14 11 -Times-Roman c 7 -#000000 T 2289 1783.8 0 \
+145 26 -Universiteit Leiden (1611) ",
+		height=0.52778,
+		label="Gilbert  Jacchaeus \nUniversiteit Leiden (1611)",
+		pos="2289,1795",
+		width=2.2292];
+	114992 -> 115008	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2289 1775.83 2289 1768.13 2289 1758.97 2289 1750.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2292.5 1750.41 2289 1740.41 2285.5 1750.41 ",
+		pos="e,2289,1740.4 2289,1775.8 2289,1768.1 2289,1759 2289,1750.4"];
+	126489	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2098 1946.8 0 209 35 -Jacobus (Jacob Harmensz.) Arminius  F 14 11 -Times-Roman c 7 -#000000 \
+T 2098 1931.8 0 333 60 -Philipps-Universität Marburg and Universiteit Leiden (1582) ",
+		height=0.52778,
+		label="Jacobus (Jacob Harmensz.) Arminius \nPhilipps-Universität Marburg and Universiteit Leiden (1582)",
+		pos="2098,1943",
+		width=4.8403];
+	126489 -> 114992	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2121.8 1923.8 2155.92 1897.72 2218.82 1849.65 2256.98 1820.47 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2259.38 1823.05 2265.2 1814.2 2255.13 1817.49 ",
+		pos="e,2265.2,1814.2 2121.8,1923.8 2155.9,1897.7 2218.8,1849.6 2257,1820.5"];
+	125181	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1800 2020.8 0 197 34 -Rudolph (Snel van Royen) Snellius  F 14 11 -Times-Roman c 7 -#000000 T \
+1800 2005.8 0 386 71 -Ruprecht-Karls-Universität Heidelberg and Universität zu Köln (1572) ",
+		height=0.52778,
+		label="Rudolph (Snel van Royen) Snellius \nRuprecht-Karls-Universität Heidelberg and Universität zu Köln (1572)",
+		pos="1800,2017",
+		width=5.5833];
+	125181 -> 126489	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1874.81 1997.92 1917.05 1987.72 1969.96 1974.94 2013.67 1964.38 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2014.52 1967.77 2023.41 1962.02 2012.87 1960.97 ",
+		pos="e,2023.4,1962 1874.8,1997.9 1917,1987.7 1970,1974.9 2013.7,1964.4"];
+	125302	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1444 1946.8 0 211 37 -Willebrord (Snel van Royen) Snellius  F 14 11 -Times-Roman c 7 -#000000 \
+T 1444 1931.8 0 145 26 -Universiteit Leiden (1607) ",
+		height=0.52778,
+		label="Willebrord (Snel van Royen) Snellius \nUniversiteit Leiden (1607)",
+		pos="1444,1943",
+		width=3.1458];
+	125181 -> 125302	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1710.63 1997.92 1659.64 1987.61 1595.63 1974.67 1543.11 1964.04 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1543.6 1960.57 1533.1 1962.02 1542.21 1967.43 ",
+		pos="e,1533.1,1962 1710.6,1997.9 1659.6,1987.6 1595.6,1974.7 1543.1,1964"];
+	125159	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1492 2094.8 0 127 21 -Immanuel  Tremellius  F 14 11 -Times-Roman c 7 -#000000 T 1492 2079.8 \
+0 252 45 -Ruprecht-Karls-Universität Heidelberg (1561) ",
+		height=0.52778,
+		label="Immanuel  Tremellius \nRuprecht-Karls-Universität Heidelberg (1561)",
+		pos="1492,2091",
+		width=3.7222];
+	125159 -> 125181	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1569.32 2071.92 1613.07 2061.7 1667.89 2048.88 1713.12 2038.31 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1713.97 2041.71 1722.91 2036.02 1712.38 2034.89 ",
+		pos="e,1722.9,2036 1569.3,2071.9 1613.1,2061.7 1667.9,2048.9 1713.1,2038.3"];
+	141571	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1513 2168.8 0 104 16 -Thomas  Cranmer  F 14 11 -Times-Roman c 7 -#000000 T 1513 2153.8 0 177 \
+30 -University of Cambridge (1526) ",
+		height=0.52778,
+		label="Thomas  Cranmer \nUniversity of Cambridge (1526)",
+		pos="1513,2165",
+		width=2.6736];
+	141571 -> 125159	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1507.7 2145.83 1505.43 2138.05 1502.73 2128.77 1500.21 2120.13 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1503.53 2119.03 1497.37 2110.41 1496.81 2120.99 ",
+		pos="e,1497.4,2110.4 1507.7,2145.8 1505.4,2138 1502.7,2128.8 1500.2,2120.1"];
+	125160	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1835 2094.8 0 104 18 -Valentine  Naibod  F 14 11 -Times-Roman c 7 -#000000 T 1835 2079.8 0 365 \
+67 -Martin-Luther-Universität Halle-Wittenberg and Universität Erfurt ",
+		height=0.52778,
+		label="Valentine  Naibod \nMartin-Luther-Universität Halle-Wittenberg and Universität Erfurt",
+		pos="1835,2091",
+		width=5.2847];
+	125160 -> 125181	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1826.17 2071.83 1822.3 2063.88 1817.68 2054.37 1813.4 2045.57 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1816.47 2043.88 1808.95 2036.41 1810.18 2046.94 ",
+		pos="e,1809,2036.4 1826.2,2071.8 1822.3,2063.9 1817.7,2054.4 1813.4,2045.6"];
+	126736	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1835 2168.8 0 109 18 -Erasmus  Reinhold  F 14 11 -Times-Roman c 7 -#000000 T 1835 2153.8 0 282 \
+50 -Martin-Luther-Universität Halle-Wittenberg (1535) ",
+		height=0.52778,
+		label="Erasmus  Reinhold \nMartin-Luther-Universität Halle-Wittenberg (1535)",
+		pos="1835,2165",
+		width=4.125];
+	126736 -> 125160	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1835 2145.83 1835 2138.13 1835 2128.97 1835 2120.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1838.5 2120.41 1835 2110.41 1831.5 2120.41 ",
+		pos="e,1835,2110.4 1835,2145.8 1835,2138.1 1835,2129 1835,2120.4"];
+	127011	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2192 2094.8 0 110 17 -Johannes  Hommel  F 14 11 -Times-Roman c 7 -#000000 T 2192 2079.8 0 282 \
+50 -Martin-Luther-Universität Halle-Wittenberg (1543) ",
+		height=0.52778,
+		label="Johannes  Hommel \nMartin-Luther-Universität Halle-Wittenberg (1543)",
+		pos="2192,2091",
+		width=4.125];
+	126736 -> 127011	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1924.63 2145.92 1975.75 2135.61 2039.94 2122.67 2092.61 2112.04 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2093.54 2115.43 2102.65 2110.02 2092.15 2108.57 ",
+		pos="e,2102.6,2110 1924.6,2145.9 1975.8,2135.6 2039.9,2122.7 2092.6,2112"];
+	126667	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1312 2242.8 0 80 14 -Jakob  Milich  F 14 11 -Times-Roman c 7 -#000000 T 1312 2227.8 0 134 24 \
+-Universität Wien (1524) ",
+		height=0.52778,
+		label="Jakob  Milich \nUniversität Wien (1524)",
+		pos="1312,2239",
+		width=2.0694];
+	126667 -> 126736	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 7 1386.59 2221.66 1389.76 2221.08 1392.91 2220.52 1396 2220 1488.5 2204.43 1592.69 2191.42 \
+1676.34 2182.08 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1676.89 2185.54 1686.44 2180.96 1676.11 2178.58 ",
+		pos="e,1686.4,2181 1386.6,2221.7 1389.8,2221.1 1392.9,2220.5 1396,2220 1488.5,2204.4 1592.7,2191.4 1676.3,2182.1"];
+	126659	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1312 2316.8 0 82 15 -Ulrich  Zasius  F 14 11 -Times-Roman c 7 -#000000 T 1312 2301.8 0 312 55 \
+-Albert-Ludwigs-Universität Freiburg im Breisgau (1501) ",
+		height=0.52778,
+		label="Ulrich  Zasius \nAlbert-Ludwigs-Universität Freiburg im Breisgau (1501)",
+		pos="1312,2313",
+		width=4.5556];
+	126659 -> 126667	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1312 2293.83 1312 2286.13 1312 2276.97 1312 2268.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1315.5 2268.41 1312 2258.41 1308.5 2268.41 ",
+		pos="e,1312,2258.4 1312,2293.8 1312,2286.1 1312,2277 1312,2268.4"];
+	131399	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1055 2242.8 0 153 26 -Wolfgang Fabricius Capito  F 14 11 -Times-Roman c 7 -#000000 T 1055 2227.8 \
+0 312 55 -Albert-Ludwigs-Universität Freiburg im Breisgau (1515) ",
+		height=0.52778,
+		label="Wolfgang Fabricius Capito \nAlbert-Ludwigs-Universität Freiburg im Breisgau (1515)",
+		pos="1055,2239",
+		width=4.5556];
+	126659 -> 131399	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1247.48 2293.92 1211.58 2283.87 1166.74 2271.31 1129.37 2260.84 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1130.12 2257.41 1119.55 2258.08 1128.23 2264.15 ",
+		pos="e,1119.5,2258.1 1247.5,2293.9 1211.6,2283.9 1166.7,2271.3 1129.4,2260.8"];
+	125938	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1049 2316.8 0 117 20 -Desiderius  Erasmus  F 14 11 -Times-Roman c 7 -#000000 T 1049 2301.8 0 \
+146 26 -University of Turin (1506) ",
+		height=0.52778,
+		label="Desiderius  Erasmus \nUniversity of Turin (1506)",
+		pos="1049,2313",
+		width=2.25];
+	125938 -> 126667	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1115.03 2293.92 1151.76 2283.87 1197.65 2271.31 1235.89 2260.84 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1237.23 2264.1 1245.95 2258.08 1235.38 2257.35 ",
+		pos="e,1245.9,2258.1 1115,2293.9 1151.8,2283.9 1197.6,2271.3 1235.9,2260.8"];
+	125938 -> 131399	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1050.51 2293.83 1051.16 2286.13 1051.92 2276.97 1052.63 2268.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1056.12 2268.67 1053.47 2258.41 1049.15 2268.09 ",
+		pos="e,1053.5,2258.4 1050.5,2293.8 1051.2,2286.1 1051.9,2277 1052.6,2268.4"];
+	125898	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1049 2390.8 0 106 18 -Alexander  Hegius  F 14 11 -Times-Roman c 7 -#000000 T 1049 2375.8 0 37 \
+6 -(1474) ",
+		height=0.52778,
+		label="Alexander  Hegius \n(1474)",
+		pos="1049,2387",
+		width=1.6944];
+	125898 -> 125938	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1049 2367.83 1049 2360.13 1049 2350.97 1049 2342.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1052.5 2342.41 1049 2332.41 1045.5 2342.41 ",
+		pos="e,1049,2332.4 1049,2367.8 1049,2360.1 1049,2351 1049,2342.4"];
+	140181	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 592 2457.3 0 175 27 -Thomas von Kempen à Kempis ",
+		height=0.5,
+		label="Thomas von Kempen à Kempis",
+		pos="592,2461",
+		width=2.6458];
+	140181 -> 125898	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 7 687.48 2443.4 690.35 2442.92 693.2 2442.46 696 2442 793.4 2426.12 906.15 2409.11 977.5 2398.52 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 978.34 2401.93 987.72 2397 977.32 2395.01 ",
+		pos="e,987.72,2397 687.48,2443.4 690.35,2442.9 693.2,2442.5 696,2442 793.4,2426.1 906.15,2409.1 977.5,2398.5"];
+	179837	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 600 2531.3 0 208 34 -Florens Florentius Radwyn Radewyns ",
+		height=0.5,
+		label="Florens Florentius Radwyn Radewyns",
+		pos="600,2535",
+		width=3.0972];
+	179837 -> 140181	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 598.1 2516.94 597.19 2508.72 596.07 2498.66 595.05 2489.41 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 598.52 2488.99 593.94 2479.44 591.56 2489.77 ",
+		pos="e,593.94,2479.4 598.1,2516.9 597.19,2508.7 596.07,2498.7 595.05,2489.4"];
+	179836	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 375 2531.3 0 173 28 -Geert Gerardus Magnus Groote ",
+		height=0.5,
+		label="Geert Gerardus Magnus Groote",
+		pos="375,2535",
+		width=2.6181];
+	179836 -> 140181	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 426.43 2516.94 457.8 2506.53 498.06 2493.17 531.03 2482.23 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 532.18 2485.54 540.57 2479.07 529.97 2478.89 ",
+		pos="e,540.57,2479.1 426.43,2516.9 457.8,2506.5 498.06,2493.2 531.03,2482.2"];
+	128012	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2216 2464.8 0 97 17 -Rudolf  Agricola  F 14 11 -Times-Roman c 7 -#000000 T 2216 2449.8 0 217 \
+41 -Università degli Studi di Ferrara (1478) ",
+		height=0.52778,
+		label="Rudolf  Agricola \nUniversità degli Studi di Ferrara (1478)",
+		pos="2216,2461",
+		width=3.2292];
+	128012 -> 125898	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2099.57 2452.82 1859.41 2438 1315.25 2404.43 1120.22 2392.39 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1120.28 2388.89 1110.09 2391.77 1119.85 2395.88 ",
+		pos="e,1110.1,2391.8 2099.6,2452.8 1859.4,2438 1315.2,2404.4 1120.2,2392.4"];
+	131584	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2650 2538.8 0 103 17 -Theodoros  Gazes  F 14 11 -Times-Roman c 7 -#000000 T 2650 2523.8 0 272 \
+48 -Università di Mantova and Constantinople (1433) ",
+		height=0.52778,
+		label="Theodoros  Gazes \nUniversità di Mantova and Constantinople (1433)",
+		pos="2650,2535",
+		width=4];
+	131584 -> 128012	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2541.32 2515.97 2478.52 2505.55 2399.44 2492.43 2334.98 2481.74 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2335.2 2478.23 2324.76 2480.04 2334.05 2485.13 ",
+		pos="e,2324.8,2480 2541.3,2516 2478.5,2505.6 2399.4,2492.4 2335,2481.7"];
+	131576	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2674 2464.8 0 155 26 -Demetrios  Chalcocondyles  F 14 11 -Times-Roman c 7 -#000000 T 2674 2449.8 \
+0 223 35 -Mystras and Accademia Romana (1452) ",
+		height=0.52778,
+		label="Demetrios  Chalcocondyles \nMystras and Accademia Romana (1452)",
+		pos="2674,2461",
+		width=3.3125];
+	131584 -> 131576	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2656.06 2515.83 2658.65 2508.05 2661.74 2498.77 2664.62 2490.13 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2668.02 2491.01 2667.86 2480.41 2661.38 2488.79 ",
+		pos="e,2667.9,2480.4 2656.1,2515.8 2658.7,2508 2661.7,2498.8 2664.6,2490.1"];
+	134873	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2691 2612.8 0 109 21 -Vittorino  da Feltre  F 14 11 -Times-Roman c 7 -#000000 T 2691 2597.8 \
+0 217 40 -Università degli Studi di Padova (1416) ",
+		height=0.52778,
+		label="Vittorino  da Feltre \nUniversità degli Studi di Padova (1416)",
+		pos="2691,2609",
+		width=3.2292];
+	134873 -> 131584	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2680.65 2589.83 2676.08 2581.79 2670.59 2572.17 2665.54 2563.29 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2668.48 2561.37 2660.49 2554.41 2662.39 2564.84 ",
+		pos="e,2660.5,2554.4 2680.7,2589.8 2676.1,2581.8 2670.6,2572.2 2665.5,2563.3"];
+	149192	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 3379 2538.8 0 308 51 -Ognibene (Omnibonus Leonicenus) Bonisoli da Lonigo  F 14 11 -Times-Roman \
+c 7 -#000000 T 3379 2523.8 0 124 22 -Università di Mantova ",
+		height=0.52778,
+		label="Ognibene (Omnibonus Leonicenus) Bonisoli da Lonigo \nUniversità di Mantova",
+		pos="3379,2535",
+		width=4.5];
+	134873 -> 149192	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 7 2807.53 2595.29 2824.14 2593.5 2841 2591.69 2857 2590 2973.62 2577.65 3104.93 2564.06 3206.67 \
+2553.61 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3207.15 2557.08 3216.74 2552.58 3206.43 2550.12 ",
+		pos="e,3216.7,2552.6 2807.5,2595.3 2824.1,2593.5 2841,2591.7 2857,2590 2973.6,2577.6 3104.9,2564.1 3206.7,2553.6"];
+	134931	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2645 2686.8 0 112 19 -Guarino  da Verona  F 14 11 -Times-Roman c 7 -#000000 T 2645 2671.8 0 \
+37 6 -(1408) ",
+		height=0.52778,
+		label="Guarino  da Verona \n(1408)",
+		pos="2645,2683",
+		width=1.7778];
+	134931 -> 134873	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2656.61 2663.83 2661.8 2655.71 2668.02 2645.96 2673.74 2637.01 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2676.8 2638.72 2679.24 2628.41 2670.9 2634.96 ",
+		pos="e,2679.2,2628.4 2656.6,2663.8 2661.8,2655.7 2668,2646 2673.7,2637"];
+	135185	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2521 2827.3 0 115 19 -Manuel  Chrysoloras ",
+		height=0.5,
+		label="Manuel  Chrysoloras",
+		pos="2521,2831",
+		width=1.8125];
+	135185 -> 134931	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2535.47 2812.97 2556.96 2787.66 2597.49 2739.94 2622.76 2710.18 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2625.65 2712.18 2629.46 2702.3 2620.32 2707.65 ",
+		pos="e,2629.5,2702.3 2535.5,2813 2557,2787.7 2597.5,2739.9 2622.8,2710.2"];
+	134780	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2493 2900.3 0 113 18 -Demetrios  Kydones ",
+		height=0.5,
+		label="Demetrios  Kydones",
+		pos="2493,2904",
+		width=1.7847];
+	134780 -> 135185	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2499.78 2885.81 2503.01 2877.62 2506.95 2867.62 2510.56 2858.48 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2513.87 2859.62 2514.28 2849.03 2507.36 2857.05 ",
+		pos="e,2514.3,2849 2499.8,2885.8 2503,2877.6 2507,2867.6 2510.6,2858.5"];
+	131575	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2325 2834.8 0 154 26 -Georgios Plethon Gemistos  F 14 11 -Times-Roman c 7 -#000000 T 2325 2819.8 \
+0 37 6 -(1380) ",
+		height=0.52778,
+		label="Georgios Plethon Gemistos \n(1380)",
+		pos="2325,2831",
+		width=2.3611];
+	134780 -> 131575	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2452.76 2885.99 2430.14 2876.43 2401.64 2864.39 2377.3 2854.1 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2378.42 2850.78 2367.85 2850.11 2375.7 2857.23 ",
+		pos="e,2367.8,2850.1 2452.8,2886 2430.1,2876.4 2401.6,2864.4 2377.3,2854.1"];
+	146365	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2493 2980.8 0 94 17 -Nilos  Kabasilas  F 14 11 -Times-Roman c 7 -#000000 T 2493 2965.8 0 37 \
+6 -(1363) ",
+		height=0.52778,
+		label="Nilos  Kabasilas \n(1363)",
+		pos="2493,2977",
+		width=1.5278];
+	146365 -> 134780	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2493 2957.72 2493 2949.97 2493 2940.79 2493 2932.27 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2496.5 2932 2493 2922 2489.5 2932 ",
+		pos="e,2493,2922 2493,2957.7 2493,2950 2493,2940.8 2493,2932.3"];
+	176844	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2493 3046.3 0 99 16 -Gregory  Palamas ",
+		height=0.5,
+		label="Gregory  Palamas",
+		pos="2493,3050",
+		width=1.5903];
+	176844 -> 146365	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2493 3031.81 2493 3024.11 2493 3014.82 2493 3006.15 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2496.5 3006.02 2493 2996.02 2489.5 3006.02 ",
+		pos="e,2493,2996 2493,3031.8 2493,3024.1 2493,3014.8 2493,3006.1"];
+	184631	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2493 3126.8 0 124 21 -Theodore  Metochites  F 14 11 -Times-Roman c 7 -#000000 T 2493 3111.8 \
+0 37 6 -(1315) ",
+		height=0.52778,
+		label="Theodore  Metochites \n(1315)",
+		pos="2493,3123",
+		width=1.9444];
+	184631 -> 176844	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2493 3103.72 2493 3095.97 2493 3086.79 2493 3078.27 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2496.5 3078 2493 3068 2489.5 3078 ",
+		pos="e,2493,3068 2493,3103.7 2493,3096 2493,3086.8 2493,3078.3"];
+	184632	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2493 3192.3 0 106 17 -Manuel  Bryennios ",
+		height=0.5,
+		label="Manuel  Bryennios",
+		pos="2493,3196",
+		width=1.6944];
+	184632 -> 184631	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2493 3177.81 2493 3170.11 2493 3160.82 2493 3152.15 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2496.5 3152.02 2493 3142.02 2489.5 3152.02 ",
+		pos="e,2493,3142 2493,3177.8 2493,3170.1 2493,3160.8 2493,3152.1"];
+	201288	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2493 3264.3 0 112 19 -Gregory  Chioniadis ",
+		height=0.5,
+		label="Gregory  Chioniadis",
+		pos="2493,3268",
+		width=1.7778];
+	201288 -> 184632	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2493 3249.7 2493 3241.98 2493 3232.71 2493 3224.11 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2496.5 3224.1 2493 3214.1 2489.5 3224.1 ",
+		pos="e,2493,3214.1 2493,3249.7 2493,3242 2493,3232.7 2493,3224.1"];
+	204293	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2493 3344.8 0 151 25 -Shams ad-Din  Al-Bukhari  F 14 11 -Times-Roman c 7 -#000000 T 2493 3329.8 \
+0 127 20 -Maragheh Observatory ",
+		height=0.52778,
+		label="Shams ad-Din  Al-Bukhari \nMaragheh Observatory",
+		pos="2493,3341",
+		width=2.3125];
+	204293 -> 201288	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2493 3321.72 2493 3313.97 2493 3304.79 2493 3296.27 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2496.5 3296 2493 3286 2489.5 3296 ",
+		pos="e,2493,3286 2493,3321.7 2493,3314 2493,3304.8 2493,3296.3"];
+	217509	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2493 3410.3 0 114 21 -Nasir al-Din  al-Tusi ",
+		height=0.5,
+		label="Nasir al-Din  al-Tusi",
+		pos="2493,3414",
+		width=1.8056];
+	217509 -> 204293	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2493 3395.81 2493 3388.11 2493 3378.82 2493 3370.15 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2496.5 3370.02 2493 3360.02 2489.5 3370.02 ",
+		pos="e,2493,3360 2493,3395.8 2493,3388.1 2493,3378.8 2493,3370.1"];
+	125888	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1853 2390.8 0 87 15 -Jan  Standonck  F 14 11 -Times-Roman c 7 -#000000 T 1853 2375.8 0 156 27 \
+-Collège de Montaigu (1490) ",
+		height=0.52778,
+		label="Jan  Standonck \nCollège de Montaigu (1490)",
+		pos="1853,2387",
+		width=2.3889];
+	125888 -> 125938	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 7 1766.86 2369.18 1763.88 2368.75 1760.92 2368.36 1758 2368 1487.83 2334.69 1414.12 2366.32 \
+1140.58 2332.1 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1140.71 2328.59 1130.35 2330.8 1139.83 2335.53 ",
+		pos="e,1130.4,2330.8 1766.9,2369.2 1763.9,2368.8 1760.9,2368.4 1758,2368 1487.8,2334.7 1414.1,2366.3 1140.6,2332.1"];
+	125681	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2091 2316.8 0 200 33 -Jacobus (Jacques Masson) Latomus  F 14 11 -Times-Roman c 7 -#000000 T \
+2091 2301.8 0 211 37 -Katholieke Universiteit Leuven (1519) ",
+		height=0.52778,
+		label="Jacobus (Jacques Masson) Latomus \nKatholieke Universiteit Leuven (1519)",
+		pos="2091,2313",
+		width=3.1458];
+	125888 -> 125681	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1912.75 2367.92 1945.71 2357.95 1986.81 2345.52 2021.24 2335.1 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2022.67 2338.33 2031.23 2332.08 2020.64 2331.63 ",
+		pos="e,2031.2,2332.1 1912.8,2367.9 1945.7,2358 1986.8,2345.5 2021.2,2335.1"];
+	128122	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2427 1872.8 0 89 15 -Duncan  Liddel  F 14 11 -Times-Roman c 7 -#000000 T 2427 1857.8 0 160 29 \
+-Universität Helmstedt (1596) ",
+		height=0.52778,
+		label="Duncan  Liddel \nUniversität Helmstedt (1596)",
+		pos="2427,1869",
+		width=2.4306];
+	128122 -> 114992	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2392.18 1849.83 2374.2 1840.45 2352.08 1828.91 2332.94 1818.92 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2334.3 1815.69 2323.81 1814.16 2331.06 1821.89 ",
+		pos="e,2323.8,1814.2 2392.2,1849.8 2374.2,1840.5 2352.1,1828.9 2332.9,1818.9"];
+	128348	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2506 1946.8 0 77 14 -Paul  Wittich  F 14 11 -Times-Roman c 7 -#000000 T 2506 1931.8 0 414 75 \
+-Martin-Luther-Universität Halle-Wittenberg and Universität Leipzig (1566) ",
+		height=0.52778,
+		label="Paul  Wittich \nMartin-Luther-Universität Halle-Wittenberg and Universität Leipzig (1566)",
+		pos="2506,1943",
+		width=5.9722];
+	128348 -> 128122	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2486.06 1923.83 2476.52 1915.13 2464.94 1904.58 2454.57 1895.13 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2456.68 1892.31 2446.93 1888.16 2451.96 1897.49 ",
+		pos="e,2446.9,1888.2 2486.1,1923.8 2476.5,1915.1 2464.9,1904.6 2454.6,1895.1"];
+	127092	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2209 2020.8 0 86 15 -Valentin  Thau  F 14 11 -Times-Roman c 7 -#000000 T 2209 2005.8 0 145 27 \
+-Universität Leipzig (1555) ",
+		height=0.52778,
+		label="Valentin  Thau \nUniversität Leipzig (1555)",
+		pos="2209,2017",
+		width=2.2292];
+	127092 -> 128348	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2283.56 1997.92 2325.57 1987.74 2378.17 1974.99 2421.67 1964.44 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2422.77 1967.78 2431.66 1962.02 2421.12 1960.98 ",
+		pos="e,2431.7,1962 2283.6,1997.9 2325.6,1987.7 2378.2,1975 2421.7,1964.4"];
+	127011 -> 127092	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2196.29 2071.83 2198.11 2064.13 2200.27 2054.97 2202.29 2046.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2205.76 2046.95 2204.65 2036.41 2198.95 2045.34 ",
+		pos="e,2204.7,2036.4 2196.3,2071.8 2198.1,2064.1 2200.3,2055 2202.3,2046.4"];
+	126956	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1662 2316.8 0 123 21 -Philipp  Melanchthon  F 14 11 -Times-Roman c 7 -#000000 T 1662 2301.8 \
+0 244 44 -Eberhard-Karls-Universität Tübingen (1514) ",
+		height=0.52778,
+		label="Philipp  Melanchthon \nEberhard-Karls-Universität Tübingen (1514)",
+		pos="1662,2313",
+		width=3.6111];
+	126956 -> 127011	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 7 1711.3 2293.95 1776.14 2269.97 1893.4 2225.75 1992 2184 2045.06 2161.53 2104.98 2133.62 2145.29 \
+2114.47 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2146.81 2117.62 2154.34 2110.16 2143.8 2111.3 ",
+		pos="e,2154.3,2110.2 1711.3,2294 1776.1,2270 1893.4,2225.8 1992,2184 2045.1,2161.5 2105,2133.6 2145.3,2114.5"];
+	182045	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1554 2242.8 0 100 16 -Simon  Grynaeus  F 14 11 -Times-Roman c 7 -#000000 T 1554 2227.8 0 282 \
+50 -Martin-Luther-Universität Halle-Wittenberg (1523) ",
+		height=0.52778,
+		label="Simon  Grynaeus \nMartin-Luther-Universität Halle-Wittenberg (1523)",
+		pos="1554,2239",
+		width=4.125];
+	126956 -> 182045	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1634.75 2293.83 1621.06 2284.71 1604.31 2273.54 1589.62 2263.74 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1591.51 2260.8 1581.24 2258.16 1587.62 2266.62 ",
+		pos="e,1581.2,2258.2 1634.7,2293.8 1621.1,2284.7 1604.3,2273.5 1589.6,2263.7"];
+	125760	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2071 2390.8 0 208 35 -Johann (Johannes Kapnion) Reuchlin  F 14 11 -Times-Roman c 7 -#000000 \
+T 2071 2375.8 0 158 30 -Université de Poitiers (1481) ",
+		height=0.52778,
+		label="Johann (Johannes Kapnion) Reuchlin \nUniversité de Poitiers (1481)",
+		pos="2071,2387",
+		width=3.0972];
+	125760 -> 126956	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1968.58 2367.97 1909.52 2357.57 1835.18 2344.49 1774.5 2333.8 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1774.95 2330.33 1764.5 2332.04 1773.74 2337.22 ",
+		pos="e,1764.5,2332 1968.6,2368 1909.5,2357.6 1835.2,2344.5 1774.5,2333.8"];
+	125682	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2343 2316.8 0 221 36 -Jan (Johannes Campensis) van Campen  F 14 11 -Times-Roman c 7 -#000000 \
+T 2343 2301.8 0 225 40 -Université Catholique de Louvain (1519) ",
+		height=0.52778,
+		label="Jan (Johannes Campensis) van Campen \nUniversité Catholique de Louvain (1519)",
+		pos="2343,2313",
+		width=3.3403];
+	125760 -> 125682	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2139.29 2367.92 2177.44 2357.82 2225.14 2345.2 2264.79 2334.7 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2265.91 2338.03 2274.69 2332.08 2264.12 2331.26 ",
+		pos="e,2274.7,2332.1 2139.3,2367.9 2177.4,2357.8 2225.1,2345.2 2264.8,2334.7"];
+	125760 -> 182045	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 10 1959.42 2369.37 1955.57 2368.89 1951.75 2368.43 1948 2368 1900.92 2362.57 1555.07 2366.9 \
+1523 2332 1506.34 2313.86 1518.8 2286.46 1532.56 2266.27 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1535.44 2268.27 1538.46 2258.11 1529.76 2264.17 ",
+		pos="e,1538.5,2258.1 1959.4,2369.4 1955.6,2368.9 1951.8,2368.4 1948,2368 1900.9,2362.6 1555.1,2366.9 1523,2332 1506.3,2313.9 1518.8,2286.5 \
+1532.6,2266.3"];
+	125755	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2424 2457.3 0 130 23 -Jacob ben Jehiel  Loans ",
+		height=0.5,
+		label="Jacob ben Jehiel  Loans",
+		pos="2424,2461",
+		width=2.0278];
+	125755 -> 125760	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 7 2350.69 2444.03 2347.42 2443.34 2344.18 2442.66 2341 2442 2285.5 2430.43 2223.48 2417.99 \
+2172.89 2407.97 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2173.42 2404.51 2162.93 2406 2172.06 2411.38 ",
+		pos="e,2162.9,2406 2350.7,2444 2347.4,2443.3 2344.2,2442.7 2341,2442 2285.5,2430.4 2223.5,2418 2172.9,2408"];
+	131444	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2401 2686.8 0 136 23 -Johannes  Argyropoulos  F 14 11 -Times-Roman c 7 -#000000 T 2401 2671.8 \
+0 217 40 -Università degli Studi di Padova (1444) ",
+		height=0.52778,
+		label="Johannes  Argyropoulos \nUniversità degli Studi di Padova (1444)",
+		pos="2401,2683",
+		width=3.2292];
+	131444 -> 125760	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 7 2350.74 2663.97 2280.51 2636.03 2154.44 2575.35 2090 2480 2077.29 2461.19 2072.78 2435.63 \
+2071.32 2416.22 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2074.81 2415.96 2070.78 2406.16 2067.82 2416.33 ",
+		pos="e,2070.8,2406.2 2350.7,2664 2280.5,2636 2154.4,2575.4 2090,2480 2077.3,2461.2 2072.8,2435.6 2071.3,2416.2"];
+	131539	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2439 2612.8 0 93 17 -Marsilio  Ficino  F 14 11 -Times-Roman c 7 -#000000 T 2439 2597.8 0 218 \
+41 -Università degli Studi di Firenze (1462) ",
+		height=0.52778,
+		label="Marsilio  Ficino \nUniversità degli Studi di Firenze (1462)",
+		pos="2439,2609",
+		width=3.25];
+	131444 -> 131539	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2410.59 2663.83 2414.83 2655.79 2419.91 2646.17 2424.6 2637.29 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2427.71 2638.89 2429.28 2628.41 2421.52 2635.62 ",
+		pos="e,2429.3,2628.4 2410.6,2663.8 2414.8,2655.8 2419.9,2646.2 2424.6,2637.3"];
+	131561	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2270 2760.8 0 109 20 -Basilios  Bessarion  F 14 11 -Times-Roman c 7 -#000000 T 2270 2745.8 0 \
+85 14 -Mystras (1436) ",
+		height=0.52778,
+		label="Basilios  Bessarion \nMystras (1436)",
+		pos="2270,2757",
+		width=1.7292];
+	131561 -> 131444	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2303.06 2737.83 2319.97 2728.54 2340.74 2717.12 2358.79 2707.2 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2360.88 2710.05 2367.95 2702.16 2357.5 2703.91 ",
+		pos="e,2368,2702.2 2303.1,2737.8 2320,2728.5 2340.7,2717.1 2358.8,2707.2"];
+	131541	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2757 2390.8 0 87 16 -Janus  Lascaris  F 14 11 -Times-Roman c 7 -#000000 T 2757 2375.8 0 217 \
+40 -Università degli Studi di Padova (1472) ",
+		height=0.52778,
+		label="Janus  Lascaris \nUniversità degli Studi di Padova (1472)",
+		pos="2757,2387",
+		width=3.2292];
+	131561 -> 131541	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 16 2268.77 2737.66 2268.03 2718.84 2268.27 2688.86 2275 2664 2284.66 2628.31 2287.43 2616.71 \
+2313 2590 2381.27 2518.68 2427.12 2539.37 2506 2480 2525.34 2465.45 2523.89 2453.83 2545 2442 2571.27 2427.28 2601.6 2416.49 2630.96 \
+2408.62 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2632.07 2411.95 2640.87 2406.06 2630.32 2405.17 ",
+		pos="e,2640.9,2406.1 2268.8,2737.7 2268,2718.8 2268.3,2688.9 2275,2664 2284.7,2628.3 2287.4,2616.7 2313,2590 2381.3,2518.7 2427.1,2539.4 \
+2506,2480 2525.3,2465.4 2523.9,2453.8 2545,2442 2571.3,2427.3 2601.6,2416.5 2631,2408.6"];
+	126109	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 624 2242.8 0 184 31 -Johannes Müller Regiomontanus  F 14 11 -Times-Roman c 7 -#000000 T 624 \
+2227.8 0 266 49 -Universität Leipzig and Universität Wien (1457) ",
+		height=0.52778,
+		label="Johannes Müller Regiomontanus \nUniversität Leipzig and Universität Wien (1457)",
+		pos="624,2239",
+		width=3.9167];
+	131561 -> 126109	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 10 2207.47 2755.86 1942.65 2754.45 927 2740.53 927 2610 927 2610 927 2610 927 2386 927 2335.93 \
+791.01 2287.42 701.24 2260.85 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 702.2 2257.49 691.62 2258.04 700.24 2264.21 ",
+		pos="e,691.62,2258 2207.5,2755.9 1942.6,2754.4 927,2740.5 927,2610 927,2610 927,2610 927,2386 927,2335.9 791.01,2287.4 701.24,2260.9"];
+	131575 -> 131561	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2311.12 2811.83 2304.79 2803.54 2297.16 2793.56 2290.21 2784.45 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2292.92 2782.24 2284.07 2776.41 2287.35 2786.48 ",
+		pos="e,2284.1,2776.4 2311.1,2811.8 2304.8,2803.5 2297.2,2793.6 2290.2,2784.5"];
+	134781	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2325 2900.3 0 101 18 -Elissaeus  Judaeus ",
+		height=0.5,
+		label="Elissaeus  Judaeus",
+		pos="2325,2904",
+		width=1.6181];
+	134781 -> 131575	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2325 2885.81 2325 2878.11 2325 2868.82 2325 2860.15 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2328.5 2860.02 2325 2850.02 2321.5 2860.02 ",
+		pos="e,2325,2850 2325,2885.8 2325,2878.1 2325,2868.8 2325,2860.1"];
+	127107	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1662 2390.8 0 103 20 -Johannes  Stöffler  F 14 11 -Times-Roman c 7 -#000000 T 1662 2375.8 0 \
+158 30 -Universität Ingolstadt (1476) ",
+		height=0.52778,
+		label="Johannes  Stöffler \nUniversität Ingolstadt (1476)",
+		pos="1662,2387",
+		width=2.4167];
+	127107 -> 126956	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1662 2367.83 1662 2360.13 1662 2350.97 1662 2342.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1665.5 2342.41 1662 2332.41 1658.5 2342.41 ",
+		pos="e,1662,2332.4 1662,2367.8 1662,2360.1 1662,2351 1662,2342.4"];
+	128305	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2959 1946.8 0 67 12 -John  Craig  F 14 11 -Times-Roman c 7 -#000000 T 2959 1931.8 0 134 25 -Universität \
+Basel (1580) ",
+		height=0.52778,
+		label="John  Craig \nUniversität Basel (1580)",
+		pos="2959,1943",
+		width=2.0694];
+	128305 -> 128122	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2884.15 1934.09 2799.44 1924.82 2657.13 1908.32 2524.65 1888.05 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2525.14 1884.59 2514.73 1886.52 2524.08 1891.5 ",
+		pos="e,2514.7,1886.5 2884.1,1934.1 2799.4,1924.8 2657.1,1908.3 2524.7,1888.1"];
+	125148	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 3620 2020.8 0 103 17 -Theodor  Zwinger  F 14 11 -Times-Roman c 7 -#000000 T 3620 2005.8 0 217 \
+40 -Università degli Studi di Padova (1559) ",
+		height=0.52778,
+		label="Theodor  Zwinger \nUniversità degli Studi di Padova (1559)",
+		pos="3620,2017",
+		width=3.2292];
+	125148 -> 128305	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 7 3503.44 2003.22 3486.2 2001.42 3468.64 1999.62 3452 1998 3273.66 1980.6 3225.19 1988.86 3043.72 \
+1962 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3043.98 1958.5 3033.57 1960.48 3042.94 1965.42 ",
+		pos="e,3033.6,1960.5 3503.4,2003.2 3486.2,2001.4 3468.6,1999.6 3452,1998 3273.7,1980.6 3225.2,1988.9 3043.7,1962"];
+	152905	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 3800 2242.8 0 109 21 -Vittore  Trincavelli  F 14 11 -Times-Roman c 7 -#000000 T 3800 2227.8 \
+0 178 33 -Università degli Studi di Padova ",
+		height=0.52778,
+		label="Vittore  Trincavelli \nUniversità degli Studi di Padova",
+		pos="3800,2239",
+		width=2.6806];
+	152905 -> 125148	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 7 3803.12 2219.82 3805.52 2200.31 3806.6 2169.03 3794 2146 3767.13 2096.91 3712.47 2061.56 \
+3671.54 2040.61 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3673.02 2037.44 3662.51 2036.11 3669.9 2043.7 ",
+		pos="e,3662.5,2036.1 3803.1,2219.8 3805.5,2200.3 3806.6,2169 3794,2146 3767.1,2096.9 3712.5,2061.6 3671.5,2040.6"];
+	152906	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 3669 2168.8 0 92 16 -Bassiano  Landi  F 14 11 -Times-Roman c 7 -#000000 T 3669 2153.8 0 217 \
+40 -Università degli Studi di Padova (1542) ",
+		height=0.52778,
+		label="Bassiano  Landi \nUniversità degli Studi di Padova (1542)",
+		pos="3669,2165",
+		width=3.2292];
+	152905 -> 152906	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 3766.94 2219.83 3750.03 2210.54 3729.26 2199.12 3711.21 2189.2 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3712.5 2185.91 3702.05 2184.16 3709.12 2192.05 ",
+		pos="e,3702,2184.2 3766.9,2219.8 3750,2210.5 3729.3,2199.1 3711.2,2189.2"];
+	152903	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 3800 2316.8 0 112 19 -Pietro  Pomponazzi  F 14 11 -Times-Roman c 7 -#000000 T 3800 2301.8 0 \
+217 40 -Università degli Studi di Padova (1487) ",
+		height=0.52778,
+		label="Pietro  Pomponazzi \nUniversità degli Studi di Padova (1487)",
+		pos="3800,2313",
+		width=3.2292];
+	152903 -> 152905	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 3800 2293.83 3800 2286.13 3800 2276.97 3800 2268.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3803.5 2268.41 3800 2258.41 3796.5 2268.41 ",
+		pos="e,3800,2258.4 3800,2293.8 3800,2286.1 3800,2277 3800,2268.4"];
+	152904	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 3411 2242.8 0 173 31 -Giovanni Battista  della Monte  F 14 11 -Times-Roman c 7 -#000000 T 3411 \
+2227.8 0 177 34 -Università degli Studi di Ferrara ",
+		height=0.52778,
+		label="Giovanni Battista  della Monte \nUniversità degli Studi di Ferrara",
+		pos="3411,2239",
+		width=2.6736];
+	152903 -> 152904	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 3702.59 2293.97 3646.22 2283.54 3575.2 2270.39 3517.37 2259.69 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3517.94 2256.23 3507.47 2257.86 3516.67 2263.12 ",
+		pos="e,3507.5,2257.9 3702.6,2294 3646.2,2283.5 3575.2,2270.4 3517.4,2259.7"];
+	136726	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 3657 2390.8 0 118 21 -Pietro  Roccabonella  F 14 11 -Times-Roman c 7 -#000000 T 3657 2375.8 \
+0 178 33 -Università degli Studi di Padova ",
+		height=0.52778,
+		label="Pietro  Roccabonella \nUniversità degli Studi di Padova",
+		pos="3657,2387",
+		width=2.6806];
+	136726 -> 152903	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 3693.08 2367.83 3711.8 2358.41 3734.84 2346.81 3754.74 2336.79 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3756.57 2339.79 3763.93 2332.16 3753.42 2333.53 ",
+		pos="e,3763.9,2332.2 3693.1,2367.8 3711.8,2358.4 3734.8,2346.8 3754.7,2336.8"];
+	127166	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 3549 2316.8 0 112 20 -Niccolò  Leoniceno  F 14 11 -Times-Roman c 7 -#000000 T 3549 2301.8 0 \
+217 40 -Università degli Studi di Padova (1453) ",
+		height=0.52778,
+		label="Niccolò  Leoniceno \nUniversità degli Studi di Padova (1453)",
+		pos="3549,2313",
+		width=3.2292];
+	136726 -> 127166	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 3629.75 2367.83 3616.06 2358.71 3599.31 2347.54 3584.62 2337.74 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3586.51 2334.8 3576.24 2332.16 3582.62 2340.62 ",
+		pos="e,3576.2,2332.2 3629.7,2367.8 3616.1,2358.7 3599.3,2347.5 3584.6,2337.7"];
+	164338	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 3657 2457.3 0 124 21 -Sigismondo  Polcastro ",
+		height=0.5,
+		label="Sigismondo  Polcastro",
+		pos="3657,2461",
+		width=1.9444];
+	164338 -> 136726	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 3657 2442.94 3657 2434.99 3657 2425.31 3657 2416.31 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3660.5 2416.2 3657 2406.2 3653.5 2416.2 ",
+		pos="e,3657,2406.2 3657,2442.9 3657,2435 3657,2425.3 3657,2416.3"];
+	148882	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 3838 2457.3 0 107 18 -Gaetano  da Thiene ",
+		height=0.5,
+		label="Gaetano  da Thiene",
+		pos="3838,2461",
+		width=1.7014];
+	148882 -> 136726	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 3795.11 2442.94 3770.25 2433.05 3738.69 2420.49 3712.02 2409.88 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3713.02 2406.52 3702.43 2406.07 3710.43 2413.02 ",
+		pos="e,3702.4,2406.1 3795.1,2442.9 3770.2,2433 3738.7,2420.5 3712,2409.9"];
+	152902	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 3869 2390.8 0 99 18 -Nicoletto  Vernia  F 14 11 -Times-Roman c 7 -#000000 T 3869 2375.8 0 178 \
+33 -Università degli Studi di Padova ",
+		height=0.52778,
+		label="Nicoletto  Vernia \nUniversità degli Studi di Padova",
+		pos="3869,2387",
+		width=2.6806];
+	148882 -> 152902	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 3845.35 2442.94 3848.88 2434.73 3853.21 2424.68 3857.19 2415.43 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3860.42 2416.77 3861.16 2406.2 3853.99 2414 ",
+		pos="e,3861.2,2406.2 3845.3,2442.9 3848.9,2434.7 3853.2,2424.7 3857.2,2415.4"];
+	152902 -> 152903	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 3851.59 2367.83 3843.48 2359.37 3833.68 2349.15 3824.82 2339.9 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3827.09 2337.21 3817.65 2332.41 3822.04 2342.05 ",
+		pos="e,3817.6,2332.4 3851.6,2367.8 3843.5,2359.4 3833.7,2349.1 3824.8,2339.9"];
+	152906 -> 125148	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 3662.89 2145.8 3654.49 2120.78 3639.3 2075.5 3629.43 2046.1 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3632.68 2044.79 3626.18 2036.43 3626.05 2047.02 ",
+		pos="e,3626.2,2036.4 3662.9,2145.8 3654.5,2120.8 3639.3,2075.5 3629.4,2046.1"];
+	152904 -> 152906	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 3475.77 2219.92 3511.81 2209.87 3556.82 2197.31 3594.34 2186.84 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3595.51 2190.14 3604.2 2184.08 3593.63 2183.4 ",
+		pos="e,3604.2,2184.1 3475.8,2219.9 3511.8,2209.9 3556.8,2197.3 3594.3,2186.8"];
+	119178	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 3189 2168.8 0 217 37 -Andreas (Andries van Wesel) Vesalius  F 14 11 -Times-Roman c 7 -#000000 \
+T 3189 2153.8 0 429 78 -Università degli Studi di Padova and Université Catholique de Louvain (1537) ",
+		height=0.52778,
+		label="Andreas (Andries van Wesel) Vesalius \nUniversità degli Studi di Padova and Université Catholique de Louvain (1537)",
+		pos="3189,2165",
+		width=6.1736];
+	152904 -> 119178	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 3355.27 2219.92 3324.65 2210 3286.51 2197.63 3254.48 2187.24 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3255.35 2183.84 3244.76 2184.08 3253.19 2190.5 ",
+		pos="e,3244.8,2184.1 3355.3,2219.9 3324.7,2210 3286.5,2197.6 3254.5,2187.2"];
+	127166 -> 152904	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 3514.18 2293.83 3496.2 2284.45 3474.08 2272.91 3454.94 2262.92 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3456.3 2259.69 3445.81 2258.16 3453.06 2265.89 ",
+		pos="e,3445.8,2258.2 3514.2,2293.8 3496.2,2284.5 3474.1,2272.9 3454.9,2262.9"];
+	127245	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 3493 2094.8 0 141 23 -Antonio Musa Brasavola  F 14 11 -Times-Roman c 7 -#000000 T 3493 2079.8 \
+0 217 41 -Università degli Studi di Ferrara (1520) ",
+		height=0.52778,
+		label="Antonio Musa Brasavola \nUniversità degli Studi di Ferrara (1520)",
+		pos="3493,2091",
+		width=3.2292];
+	127166 -> 127245	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 3544.42 2294 3534.68 2255.72 3511.84 2166.03 3500.16 2120.14 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3503.5 2119.08 3497.65 2110.25 3496.72 2120.81 ",
+		pos="e,3497.6,2110.3 3544.4,2294 3534.7,2255.7 3511.8,2166 3500.2,2120.1"];
+	127144	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 3477 2383.3 0 37 6 -Pelope ",
+		height=0.5,
+		label=Pelope,
+		pos="3477,2387",
+		width=0.75];
+	127144 -> 127166	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 3494.06 2368.94 3502.88 2360.12 3513.81 2349.19 3523.6 2339.4 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3526.2 2341.75 3530.8 2332.2 3521.25 2336.8 ",
+		pos="e,3530.8,2332.2 3494.1,2368.9 3502.9,2360.1 3513.8,2349.2 3523.6,2339.4"];
+	149192 -> 127166	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 7 3403.63 2515.95 3433.16 2493.21 3482.45 2451.56 3513 2406 3526.28 2386.2 3535.75 2360.77 \
+3541.64 2341.67 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3545 2342.63 3544.46 2332.05 3538.28 2340.66 ",
+		pos="e,3544.5,2332.1 3403.6,2515.9 3433.2,2493.2 3482.5,2451.6 3513,2406 3526.3,2386.2 3535.8,2360.8 3541.6,2341.7"];
+	152901	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 3038 2316.8 0 91 14 -Marco  Musuro  F 14 11 -Times-Roman c 7 -#000000 T 3038 2301.8 0 218 41 \
+-Università degli Studi di Firenze (1486) ",
+		height=0.52778,
+		label="Marco  Musuro \nUniversità degli Studi di Firenze (1486)",
+		pos="3038,2313",
+		width=3.25];
+	152901 -> 152904	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 3131.64 2293.92 3185.17 2283.59 3252.41 2270.61 3307.5 2259.98 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3308.49 2263.35 3317.64 2258.02 3307.16 2256.48 ",
+		pos="e,3317.6,2258 3131.6,2293.9 3185.2,2283.6 3252.4,2270.6 3307.5,2260"];
+	131541 -> 152901	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2827.55 2367.92 2867.13 2357.78 2916.66 2345.09 2957.72 2334.57 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2958.61 2337.96 2967.43 2332.08 2956.87 2331.17 ",
+		pos="e,2967.4,2332.1 2827.5,2367.9 2867.1,2357.8 2916.7,2345.1 2957.7,2334.6"];
+	131517	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2271 2242.8 0 98 17 -Guillaume  Budé  F 14 11 -Times-Roman c 7 -#000000 T 2271 2227.8 0 282 \
+54 -Université d'Orléans and Université de Paris (1486) ",
+		height=0.52778,
+		label="Guillaume  Budé \nUniversité d'Orléans and Université de Paris (1486)",
+		pos="2271,2239",
+		width=4.125];
+	131541 -> 131517	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 7 2750.15 2367.64 2741.07 2346.11 2722.88 2311.18 2695 2294 2689.14 2290.39 2547.78 2272.84 \
+2429.87 2258.71 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2429.97 2255.2 2419.63 2257.49 2429.14 2262.15 ",
+		pos="e,2419.6,2257.5 2750.1,2367.6 2741.1,2346.1 2722.9,2311.2 2695,2294 2689.1,2290.4 2547.8,2272.8 2429.9,2258.7"];
+	131576 -> 131541	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2694.94 2441.83 2705.07 2433.05 2717.38 2422.37 2728.35 2412.85 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2730.8 2415.36 2736.06 2406.16 2726.21 2410.07 ",
+		pos="e,2736.1,2406.2 2694.9,2441.8 2705.1,2433 2717.4,2422.4 2728.4,2412.8"];
+	125047	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2856 2094.8 0 202 35 -Petrus (Pierre de La Ramée) Ramus  F 14 11 -Times-Roman c 7 -#000000 \
+T 2856 2079.8 0 146 26 -Collège de Navarre (1536) ",
+		height=0.52778,
+		label="Petrus (Pierre de La Ramée) Ramus \nCollège de Navarre (1536)",
+		pos="2856,2091",
+		width=3.0278];
+	125047 -> 125148	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 7 2965.14 2080.21 3123.95 2065.95 3404.99 2040.65 3452 2036 3465.39 2034.68 3479.37 2033.25 \
+3493.31 2031.8 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3493.86 2035.26 3503.44 2030.74 3493.13 2028.3 ",
+		pos="e,3503.4,2030.7 2965.1,2080.2 3124,2065.9 3405,2040.6 3452,2036 3465.4,2034.7 3479.4,2033.2 3493.3,2031.8"];
+	125124	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2983 1872.8 0 218 37 -Johannes (Johan van Heurne) Heurnius  F 14 11 -Times-Roman c 7 -#000000 \
+T 2983 1857.8 0 412 77 -Università degli Studi di Pavia and Università degli Studi di Padova (1571) ",
+		height=0.52778,
+		label="Johannes (Johan van Heurne) Heurnius \nUniversità degli Studi di Pavia and Università degli Studi di Padova (1571)",
+		pos="2983,1869",
+		width=5.9306];
+	125047 -> 125124	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 7 2852.87 2071.85 2848.27 2039.09 2843.32 1969.28 2875 1924 2884.36 1910.63 2898.01 1900.4 \
+2912.48 1892.63 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2914.17 1895.7 2921.56 1888.11 2911.05 1889.43 ",
+		pos="e,2921.6,1888.1 2852.9,2071.9 2848.3,2039.1 2843.3,1969.3 2875,1924 2884.4,1910.6 2898,1900.4 2912.5,1892.6"];
+	131546	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2421 2168.8 0 103 18 -Jacques  Toussain  F 14 11 -Times-Roman c 7 -#000000 T 2421 2153.8 0 144 \
+27 -Université de Paris (1521) ",
+		height=0.52778,
+		label="Jacques  Toussain \nUniversité de Paris (1521)",
+		pos="2421,2165",
+		width=2.2222];
+	131546 -> 125047	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 7 2501.02 2147.64 2504.05 2147.08 2507.05 2146.53 2510 2146 2532.28 2142.01 2645.72 2124.39 \
+2736.72 2110.35 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2737.51 2113.77 2746.86 2108.78 2736.44 2106.85 ",
+		pos="e,2746.9,2108.8 2501,2147.6 2504.1,2147.1 2507.1,2146.5 2510,2146 2532.3,2142 2645.7,2124.4 2736.7,2110.3"];
+	131606	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2436 2094.8 0 94 17 -Adrien  Turnèbe  F 14 11 -Times-Roman c 7 -#000000 T 2436 2079.8 0 139 \
+25 -Collège de France (1532) ",
+		height=0.52778,
+		label="Adrien  Turnèbe \nCollège de France (1532)",
+		pos="2436,2091",
+		width=2.1458];
+	131546 -> 131606	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2424.79 2145.83 2426.39 2138.13 2428.3 2128.97 2430.08 2120.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2433.55 2120.92 2432.16 2110.41 2426.7 2119.49 ",
+		pos="e,2432.2,2110.4 2424.8,2145.8 2426.4,2138.1 2428.3,2129 2430.1,2120.4"];
+	131517 -> 131546	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2308.85 2219.83 2328.73 2210.29 2353.28 2198.51 2374.33 2188.4 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2375.92 2191.52 2383.42 2184.04 2372.89 2185.21 ",
+		pos="e,2383.4,2184 2308.9,2219.8 2328.7,2210.3 2353.3,2198.5 2374.3,2188.4"];
+	131443	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1885 2309.3 0 133 20 -Georgius  Hermonymus ",
+		height=0.5,
+		label="Georgius  Hermonymus",
+		pos="1885,2313",
+		width=2.0625];
+	131443 -> 131517	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 7 1959.63 2295.68 1962.45 2295.1 1965.25 2294.54 1968 2294 2029.32 2281.89 2097.87 2269.57 \
+2154.23 2259.77 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2154.99 2263.19 2164.25 2258.03 2153.8 2256.29 ",
+		pos="e,2164.2,2258 1959.6,2295.7 1962.5,2295.1 1965.3,2294.5 1968,2294 2029.3,2281.9 2097.9,2269.6 2154.2,2259.8"];
+	125665	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2640 2168.8 0 196 33 -Johannes (Johann Sturm) Sturmius  F 14 11 -Times-Roman c 7 -#000000 T \
+2640 2153.8 0 225 40 -Université Catholique de Louvain (1527) ",
+		height=0.52778,
+		label="Johannes (Johann Sturm) Sturmius \nUniversité Catholique de Louvain (1527)",
+		pos="2640,2165",
+		width=3.3403];
+	125665 -> 125047	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2694.23 2145.92 2723.88 2136.04 2760.8 2123.73 2791.88 2113.37 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2793.37 2116.57 2801.75 2110.08 2791.16 2109.93 ",
+		pos="e,2801.8,2110.1 2694.2,2145.9 2723.9,2136 2760.8,2123.7 2791.9,2113.4"];
+	119159	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2823 2242.8 0 183 30 -Johannes Winter von Andernach  F 14 11 -Times-Roman c 7 -#000000 T 2823 \
+2227.8 0 149 28 -Collège de Tréguier (1532) ",
+		height=0.52778,
+		label="Johannes Winter von Andernach \nCollège de Tréguier (1532)",
+		pos="2823,2239",
+		width=2.7569];
+	119159 -> 125665	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2776.82 2219.83 2752.02 2210.07 2721.28 2197.98 2695.22 2187.72 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2696.43 2184.44 2685.85 2184.04 2693.87 2190.96 ",
+		pos="e,2685.8,2184 2776.8,2219.8 2752,2210.1 2721.3,2198 2695.2,2187.7"];
+	119159 -> 119178	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2914.88 2219.92 2967.41 2209.59 3033.38 2196.61 3087.45 2185.98 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3088.26 2189.39 3097.39 2184.02 3086.91 2182.52 ",
+		pos="e,3097.4,2184 2914.9,2219.9 2967.4,2209.6 3033.4,2196.6 3087.4,2186"];
+	158329	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2846 2168.8 0 118 20 -Guillaume  Rondelet  F 14 11 -Times-Roman c 7 -#000000 T 2846 2153.8 0 \
+104 20 -Université de Paris ",
+		height=0.52778,
+		label="Guillaume  Rondelet \nUniversité de Paris",
+		pos="2846,2165",
+		width=1.8611];
+	119159 -> 158329	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2828.8 2219.83 2831.29 2212.05 2834.25 2202.77 2837.01 2194.13 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2840.41 2195 2840.12 2184.41 2833.74 2192.87 ",
+		pos="e,2840.1,2184.4 2828.8,2219.8 2831.3,2212 2834.3,2202.8 2837,2194.1"];
+	125422	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2584 2316.8 0 189 33 -Jacobus (Jacques Dubois) Sylvius  F 14 11 -Times-Roman c 7 -#000000 T \
+2584 2301.8 0 144 27 -Université de Paris (1530) ",
+		height=0.52778,
+		label="Jacobus (Jacques Dubois) Sylvius \nUniversité de Paris (1530)",
+		pos="2584,2313",
+		width=2.8403];
+	125422 -> 119159	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2644 2293.92 2677.24 2283.91 2718.73 2271.41 2753.39 2260.97 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2754.41 2264.32 2762.97 2258.08 2752.39 2257.62 ",
+		pos="e,2763,2258.1 2644,2293.9 2677.2,2283.9 2718.7,2271.4 2753.4,2261"];
+	128987	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2542 2390.8 0 97 18 -François  Dubois  F 14 11 -Times-Roman c 7 -#000000 T 2542 2375.8 0 144 \
+27 -Université de Paris (1516) ",
+		height=0.52778,
+		label="François  Dubois \nUniversité de Paris (1516)",
+		pos="2542,2387",
+		width=2.2222];
+	128987 -> 125422	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2552.6 2367.83 2557.29 2359.79 2562.9 2350.17 2568.08 2341.29 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2571.24 2342.81 2573.26 2332.41 2565.2 2339.29 ",
+		pos="e,2573.3,2332.4 2552.6,2367.8 2557.3,2359.8 2562.9,2350.2 2568.1,2341.3"];
+	128921	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2399 2383.3 0 73 13 -Jean  Tagault ",
+		height=0.5,
+		label="Jean  Tagault",
+		pos="2399,2387",
+		width=1.2292];
+	128921 -> 125422	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2442.84 2368.94 2468.36 2359 2500.79 2346.38 2528.13 2335.75 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2529.52 2338.96 2537.56 2332.07 2526.98 2332.44 ",
+		pos="e,2537.6,2332.1 2442.8,2368.9 2468.4,2359 2500.8,2346.4 2528.1,2335.7"];
+	126571	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2823 2316.8 0 91 16 -Rutger  Rescius  F 14 11 -Times-Roman c 7 -#000000 T 2823 2301.8 0 144 \
+27 -Université de Paris (1513) ",
+		height=0.52778,
+		label="Rutger  Rescius \nUniversité de Paris (1513)",
+		pos="2823,2313",
+		width=2.2222];
+	126571 -> 119159	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2823 2293.83 2823 2286.13 2823 2276.97 2823 2268.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2826.5 2268.41 2823 2258.41 2819.5 2268.41 ",
+		pos="e,2823,2258.4 2823,2293.8 2823,2286.1 2823,2277 2823,2268.4"];
+	127181	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 3022 2390.8 0 244 40 -Girolamo (Hieronymus Aleander) Aleandro  F 14 11 -Times-Roman c 7 -#000000 \
+T 3022 2375.8 0 217 40 -Università degli Studi di Padova (1499) ",
+		height=0.52778,
+		label="Girolamo (Hieronymus Aleander) Aleandro \nUniversità degli Studi di Padova (1499)",
+		pos="3022,2387",
+		width=3.6111];
+	127181 -> 126571	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2972.04 2367.92 2944.84 2358.08 2911 2345.84 2882.44 2335.51 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2883.57 2332.19 2872.98 2332.08 2881.19 2338.78 ",
+		pos="e,2873,2332.1 2972,2367.9 2944.8,2358.1 2911,2345.8 2882.4,2335.5"];
+	131447	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2929 2464.8 0 120 22 -Scipione  Fortiguerra  F 14 11 -Times-Roman c 7 -#000000 T 2929 2449.8 \
+0 218 41 -Università degli Studi di Firenze (1493) ",
+		height=0.52778,
+		label="Scipione  Fortiguerra \nUniversità degli Studi di Firenze (1493)",
+		pos="2929,2461",
+		width=3.25];
+	131447 -> 127181	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2952.47 2441.83 2964.03 2432.88 2978.14 2421.96 2990.62 2412.3 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2992.78 2415.05 2998.54 2406.16 2988.49 2409.52 ",
+		pos="e,2998.5,2406.2 2952.5,2441.8 2964,2432.9 2978.1,2422 2990.6,2412.3"];
+	131535	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2929 2538.8 0 103 18 -Angelo  Poliziano  F 14 11 -Times-Roman c 7 -#000000 T 2929 2523.8 0 218 \
+41 -Università degli Studi di Firenze (1477) ",
+		height=0.52778,
+		label="Angelo  Poliziano \nUniversità degli Studi di Firenze (1477)",
+		pos="2929,2535",
+		width=3.25];
+	131535 -> 131447	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2929 2515.83 2929 2508.13 2929 2498.97 2929 2490.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2932.5 2490.41 2929 2480.41 2925.5 2490.41 ",
+		pos="e,2929,2480.4 2929,2515.8 2929,2508.1 2929,2499 2929,2490.4"];
+	131540	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2929 2605.3 0 109 19 -Cristoforo  Landino ",
+		height=0.5,
+		label="Cristoforo  Landino",
+		pos="2929,2609",
+		width=1.7292];
+	131540 -> 131535	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2929 2590.94 2929 2582.99 2929 2573.31 2929 2564.31 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2932.5 2564.2 2929 2554.2 2925.5 2564.2 ",
+		pos="e,2929,2554.2 2929,2590.9 2929,2583 2929,2573.3 2929,2564.3"];
+	131539 -> 131535	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2556.06 2590.8 2630.02 2579.93 2725.61 2565.89 2801.5 2554.73 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2802.21 2558.17 2811.6 2553.25 2801.19 2551.24 ",
+		pos="e,2811.6,2553.3 2556.1,2590.8 2630,2579.9 2725.6,2565.9 2801.5,2554.7"];
+	131446	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 3109 2457.3 0 74 12 -Moses  Perez ",
+		height=0.5,
+		label="Moses  Perez",
+		pos="3109,2461",
+		width=1.25];
+	131446 -> 127181	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 3088.38 2442.94 3077.52 2433.95 3064 2422.76 3052 2412.83 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3053.93 2409.88 3043.99 2406.2 3049.46 2415.27 ",
+		pos="e,3044,2406.2 3088.4,2442.9 3077.5,2433.9 3064,2422.8 3052,2412.8"];
+	125658	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2558 2242.8 0 214 39 -Nicolas (Nicolaes Cleynaerts) Clénard  F 14 11 -Times-Roman c 7 -#000000 \
+T 2558 2227.8 0 225 40 -Université Catholique de Louvain (1515) ",
+		height=0.52778,
+		label="Nicolas (Nicolaes Cleynaerts) Clénard \nUniversité Catholique de Louvain (1515)",
+		pos="2558,2239",
+		width=3.3403];
+	125658 -> 125665	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2578.69 2219.83 2588.69 2211.05 2600.86 2200.37 2611.7 2190.85 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2614.11 2193.39 2619.31 2184.16 2609.49 2188.13 ",
+		pos="e,2619.3,2184.2 2578.7,2219.8 2588.7,2211 2600.9,2200.4 2611.7,2190.8"];
+	125682 -> 125658	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2396.98 2293.92 2426.5 2284.04 2463.24 2271.73 2494.18 2261.37 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2495.63 2264.58 2504 2258.08 2493.41 2257.94 ",
+		pos="e,2504,2258.1 2397,2293.9 2426.5,2284 2463.2,2271.7 2494.2,2261.4"];
+	125794	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2271 2383.3 0 115 19 -Matthaeus  Adrianus ",
+		height=0.5,
+		label="Matthaeus  Adrianus",
+		pos="2271,2387",
+		width=1.8125];
+	125794 -> 125682	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2288.06 2368.94 2296.88 2360.12 2307.81 2349.19 2317.6 2339.4 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2320.2 2341.75 2324.8 2332.2 2315.25 2336.8 ",
+		pos="e,2324.8,2332.2 2288.1,2368.9 2296.9,2360.1 2307.8,2349.2 2317.6,2339.4"];
+	125681 -> 125658	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2204.35 2294.52 2272.66 2283.99 2359.84 2270.55 2430.54 2259.65 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2431.5 2263.04 2440.85 2258.06 2430.44 2256.13 ",
+		pos="e,2440.9,2258.1 2204.3,2294.5 2272.7,2284 2359.8,2270.6 2430.5,2259.7"];
+	115030	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2762 1724.8 0 194 33 -Henricus (Hendrik de Roy) Regius  F 14 11 -Times-Roman c 7 -#000000 T \
+2762 1709.8 0 349 64 -Universiteit Leiden and Università degli Studi di Padova (1623) ",
+		height=0.52778,
+		label="Henricus (Hendrik de Roy) Regius \nUniversiteit Leiden and Università degli Studi di Padova (1623)",
+		pos="2762,1721",
+		width=5.0625];
+	115030 -> 115139	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2703.53 1701.95 2615.68 1674.83 2450.04 1623.71 2356.94 1594.97 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2357.93 1591.61 2347.34 1592.01 2355.86 1598.3 ",
+		pos="e,2347.3,1592 2703.5,1702 2615.7,1674.8 2450,1623.7 2356.9,1595"];
+	125006	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 3165 1798.8 0 149 26 -Adriaan  van den Spieghel  F 14 11 -Times-Roman c 7 -#000000 T 3165 1783.8 \
+0 429 78 -Università degli Studi di Padova and Université Catholique de Louvain (1603) ",
+		height=0.52778,
+		label="Adriaan  van den Spieghel \nUniversità degli Studi di Padova and Université Catholique de Louvain (1603)",
+		pos="3165,1795",
+		width=6.1736];
+	125006 -> 115030	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 3064.09 1775.97 3005.89 1765.57 2932.64 1752.49 2872.85 1741.8 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2873.45 1738.36 2862.99 1740.04 2872.22 1745.25 ",
+		pos="e,2863,1740 3064.1,1776 3005.9,1765.6 2932.6,1752.5 2872.8,1741.8"];
+	125109	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 3225 1946.8 0 330 56 -Hieronymus (Girolamo Fabrici d'Acquapendente) Fabricius  F 14 11 -Times-Roman \
+c 7 -#000000 T 3225 1931.8 0 217 40 -Università degli Studi di Padova (1559) ",
+		height=0.52778,
+		label="Hieronymus (Girolamo Fabrici d'Acquapendente) Fabricius \nUniversità degli Studi di Padova (1559)",
+		pos="3225,1943",
+		width=4.8056];
+	125109 -> 125006	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 7 3223.31 1923.65 3221.04 1904.55 3215.94 1874.11 3205 1850 3200.59 1840.28 3194.22 1830.61 \
+3187.86 1822.19 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3190.52 1819.91 3181.57 1814.24 3185.03 1824.26 ",
+		pos="e,3181.6,1814.2 3223.3,1923.7 3221,1904.6 3215.9,1874.1 3205,1850 3200.6,1840.3 3194.2,1830.6 3187.9,1822.2"];
+	125109 -> 125124	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 3164.25 1923.92 3130.59 1913.91 3088.58 1901.41 3053.48 1890.97 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3054.36 1887.58 3043.78 1888.08 3052.37 1894.29 ",
+		pos="e,3043.8,1888.1 3164.2,1923.9 3130.6,1913.9 3088.6,1901.4 3053.5,1891"];
+	125142	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 3225 2020.8 0 110 20 -Gabriele  Falloppio  F 14 11 -Times-Roman c 7 -#000000 T 3225 2005.8 0 \
+421 79 -Università degli Studi di Padova and Università degli Studi di Ferrara (1547) ",
+		height=0.52778,
+		label="Gabriele  Falloppio \nUniversità degli Studi di Padova and Università degli Studi di Ferrara (1547)",
+		pos="3225,2017",
+		width=6.0625];
+	125142 -> 125109	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 3225 1997.83 3225 1990.13 3225 1980.97 3225 1972.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3228.5 1972.41 3225 1962.41 3221.5 1972.41 ",
+		pos="e,3225,1962.4 3225,1997.8 3225,1990.1 3225,1981 3225,1972.4"];
+	125303	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 3207 2094.8 0 263 42 -Matteo Realdo (Renaldus Columbus) Colombo  F 14 11 -Times-Roman c 7 -#\
+000000 T 3207 2079.8 0 217 40 -Università degli Studi di Padova (1544) ",
+		height=0.52778,
+		label="Matteo Realdo (Renaldus Columbus) Colombo \nUniversità degli Studi di Padova (1544)",
+		pos="3207,2091",
+		width=3.8681];
+	125303 -> 125142	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 3211.54 2071.83 3213.49 2064.05 3215.81 2054.77 3217.97 2046.13 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3221.37 2046.96 3220.4 2036.41 3214.58 2045.27 ",
+		pos="e,3220.4,2036.4 3211.5,2071.8 3213.5,2064 3215.8,2054.8 3218,2046.1"];
+	119178 -> 125303	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 3193.54 2145.83 3195.49 2138.05 3197.81 2128.77 3199.97 2120.13 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3203.37 2120.96 3202.4 2110.41 3196.58 2119.27 ",
+		pos="e,3202.4,2110.4 3193.5,2145.8 3195.5,2138 3197.8,2128.8 3200,2120.1"];
+	119097	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 3176 2242.8 0 213 34 -Gemma (Jemme Reinerszoon) Frisius  F 14 11 -Times-Roman c 7 -#000000 T \
+3176 2227.8 0 225 40 -Université Catholique de Louvain (1529) ",
+		height=0.52778,
+		label="Gemma (Jemme Reinerszoon) Frisius \nUniversité Catholique de Louvain (1529)",
+		pos="3176,2239",
+		width=3.3403];
+	119097 -> 119178	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 3179.28 2219.83 3180.67 2212.13 3182.32 2202.97 3183.87 2194.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3187.34 2194.88 3185.68 2184.41 3180.45 2193.63 ",
+		pos="e,3185.7,2184.4 3179.3,2219.8 3180.7,2212.1 3182.3,2203 3183.9,2194.4"];
+	125892	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 3294 2316.8 0 176 33 -Petrus (Pieter de Corte) Curtius  F 14 11 -Times-Roman c 7 -#000000 T \
+3294 2301.8 0 225 40 -Université Catholique de Louvain (1513) ",
+		height=0.52778,
+		label="Petrus (Pieter de Corte) Curtius \nUniversité Catholique de Louvain (1513)",
+		pos="3294,2313",
+		width=3.3403];
+	125892 -> 119097	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 3264.22 2293.83 3249.13 2284.62 3230.62 2273.33 3214.47 2263.47 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3216.13 2260.38 3205.77 2258.16 3212.48 2266.36 ",
+		pos="e,3205.8,2258.2 3264.2,2293.8 3249.1,2284.6 3230.6,2273.3 3214.5,2263.5"];
+	125894	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 3294 2390.8 0 214 36 -Maarten (Martinus Dorpius) van Dorp  F 14 11 -Times-Roman c 7 -#000000 \
+T 3294 2375.8 0 225 40 -Université Catholique de Louvain (1504) ",
+		height=0.52778,
+		label="Maarten (Martinus Dorpius) van Dorp \nUniversité Catholique de Louvain (1504)",
+		pos="3294,2387",
+		width=3.3403];
+	125894 -> 125892	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 3294 2367.83 3294 2360.13 3294 2350.97 3294 2342.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3297.5 2342.41 3294 2332.41 3290.5 2342.41 ",
+		pos="e,3294,2332.4 3294,2367.8 3294,2360.1 3294,2351 3294,2342.4"];
+	125897	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 3294 2464.8 0 69 12 -Leo  Outers  F 14 11 -Times-Roman c 7 -#000000 T 3294 2449.8 0 225 40 -Université \
+Catholique de Louvain (1485) ",
+		height=0.52778,
+		label="Leo  Outers \nUniversité Catholique de Louvain (1485)",
+		pos="3294,2461",
+		width=3.3403];
+	125897 -> 125894	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 3294 2441.83 3294 2434.13 3294 2424.97 3294 2416.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3297.5 2416.41 3294 2406.41 3290.5 2416.41 ",
+		pos="e,3294,2406.4 3294,2441.8 3294,2434.1 3294,2425 3294,2416.4"];
+	127245 -> 125142	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 3425.72 2071.92 3388.13 2061.82 3341.13 2049.2 3302.06 2038.7 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 3302.88 2035.3 3292.31 2036.08 3301.06 2042.06 ",
+		pos="e,3292.3,2036.1 3425.7,2071.9 3388.1,2061.8 3341.1,2049.2 3302.1,2038.7"];
+	125173	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2762 1798.8 0 188 32 -Otho (Otto van Heurne) Heurnius  F 14 11 -Times-Roman c 7 -#000000 T 2762 \
+1783.8 0 145 26 -Universiteit Leiden (1599) ",
+		height=0.52778,
+		label="Otho (Otto van Heurne) Heurnius \nUniversiteit Leiden (1599)",
+		pos="2762,1795",
+		width=2.8194];
+	125173 -> 115030	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2762 1775.83 2762 1768.13 2762 1758.97 2762 1750.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2765.5 1750.41 2762 1740.41 2758.5 1750.41 ",
+		pos="e,2762,1740.4 2762,1775.8 2762,1768.1 2762,1759 2762,1750.4"];
+	125233	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2642 1865.3 0 202 35 -Petrus (Pierre du Moulin) Molinaeus ",
+		height=0.5,
+		label="Petrus (Pierre du Moulin) Molinaeus",
+		pos="2642,1869",
+		width=3.0278];
+	125233 -> 125173	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2670.44 1850.94 2686.14 1841.52 2705.87 1829.68 2722.99 1819.41 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2724.89 1822.35 2731.67 1814.2 2721.29 1816.34 ",
+		pos="e,2731.7,1814.2 2670.4,1850.9 2686.1,1841.5 2705.9,1829.7 2723,1819.4"];
+	125124 -> 125173	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2927.52 1849.92 2897.04 1840 2859.07 1827.63 2827.19 1817.24 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2828.1 1813.85 2817.51 1814.08 2825.93 1820.51 ",
+		pos="e,2817.5,1814.1 2927.5,1849.9 2897,1840 2859.1,1827.6 2827.2,1817.2"];
+	60984	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1512 1724.8 0 88 15 -Erhard  Weigel  F 14 11 -Times-Roman c 7 -#000000 T 1512 1709.8 0 145 27 \
+-Universität Leipzig (1650) ",
+		height=0.52778,
+		label="Erhard  Weigel \nUniversität Leipzig (1650)",
+		pos="1512,1721",
+		width=2.2292];
+	60984 -> 17240	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1557.5 1702 1658.83 1661.9 1902.79 1565.37 2012.69 1521.89 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2014.25 1525.03 2022.26 1518.1 2011.68 1518.52 ",
+		pos="e,2022.3,1518.1 1557.5,1702 1658.8,1661.9 1902.8,1565.4 2012.7,1521.9"];
+	60985	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1311 1650.8 0 151 26 -Gottfried Wilhelm Leibniz  F 14 11 -Times-Roman c 7 -#000000 T 1311 1635.8 \
+0 251 45 -Académie royale des sciences de Paris (1676) ",
+		height=0.52778,
+		label="Gottfried Wilhelm Leibniz \nAcadémie royale des sciences de Paris (1676)",
+		pos="1311,1647",
+		width=3.7014];
+	60984 -> 60985	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1461.54 1701.92 1434.06 1692.08 1399.88 1679.84 1371.04 1669.51 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1372.08 1666.16 1361.48 1666.08 1369.72 1672.75 ",
+		pos="e,1361.5,1666.1 1461.5,1701.9 1434.1,1692.1 1399.9,1679.8 1371,1669.5"];
+	144221	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1512 1798.8 0 88 17 -Philipp  Müller  F 14 11 -Times-Roman c 7 -#000000 T 1512 1783.8 0 145 \
+27 -Universität Leipzig (1604) ",
+		height=0.52778,
+		label="Philipp  Müller \nUniversität Leipzig (1604)",
+		pos="1512,1795",
+		width=2.2292];
+	144221 -> 60984	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1512 1775.83 1512 1768.13 1512 1758.97 1512 1750.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1515.5 1750.41 1512 1740.41 1508.5 1750.41 ",
+		pos="e,1512,1740.4 1512,1775.8 1512,1768.1 1512,1759 1512,1750.4"];
+	144220	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1319 1872.8 0 106 18 -Christoph  Meurer  F 14 11 -Times-Roman c 7 -#000000 T 1319 1857.8 0 145 \
+27 -Universität Leipzig (1582) ",
+		height=0.52778,
+		label="Christoph  Meurer \nUniversität Leipzig (1582)",
+		pos="1319,1869",
+		width=2.2292];
+	144220 -> 144221	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1367.7 1849.83 1393.97 1840.03 1426.57 1827.87 1454.13 1817.59 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1455.5 1820.81 1463.65 1814.04 1453.06 1814.25 ",
+		pos="e,1463.6,1814 1367.7,1849.8 1394,1840 1426.6,1827.9 1454.1,1817.6"];
+	127790	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1211 1946.8 0 151 26 -Moritz Valentin Steinmetz  F 14 11 -Times-Roman c 7 -#000000 T 1211 1931.8 \
+0 145 27 -Universität Leipzig (1550) ",
+		height=0.52778,
+		label="Moritz Valentin Steinmetz \nUniversität Leipzig (1550)",
+		pos="1211,1943",
+		width=2.3125];
+	127790 -> 144220	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1238.25 1923.83 1251.94 1914.71 1268.69 1903.54 1283.38 1893.74 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1285.38 1896.62 1291.76 1888.16 1281.49 1890.8 ",
+		pos="e,1291.8,1888.2 1238.3,1923.8 1251.9,1914.7 1268.7,1903.5 1283.4,1893.7"];
+	184935	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1211 2013.3 0 103 16 -Johann  Hoffmann ",
+		height=0.5,
+		label="Johann  Hoffmann",
+		pos="1211,2017",
+		width=1.6458];
+	184935 -> 127790	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1211 1998.94 1211 1990.99 1211 1981.31 1211 1972.31 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1214.5 1972.2 1211 1962.2 1207.5 1972.2 ",
+		pos="e,1211,1962.2 1211,1998.9 1211,1991 1211,1981.3 1211,1972.3"];
+	126827	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 967 2020.8 0 213 35 -Georg Joachim von Leuchen Rheticus  F 14 11 -Times-Roman c 7 -#000000 T \
+967 2005.8 0 282 50 -Martin-Luther-Universität Halle-Wittenberg (1535) ",
+		height=0.52778,
+		label="Georg Joachim von Leuchen Rheticus \nMartin-Luther-Universität Halle-Wittenberg (1535)",
+		pos="967,2017",
+		width=4.125];
+	126827 -> 127790	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1028.26 1997.92 1062.19 1987.91 1104.55 1975.41 1139.93 1964.97 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1141.12 1968.27 1149.72 1962.08 1139.14 1961.56 ",
+		pos="e,1149.7,1962.1 1028.3,1997.9 1062.2,1987.9 1104.5,1975.4 1139.9,1965"];
+	126177	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 967 2094.8 0 229 40 -Nicolaus (Mikołaj Kopernik) Copernicus  F 14 11 -Times-Roman c 7 -#000000 \
+T 967 2079.8 0 729 136 -Università di Bologna and Università degli Studi di Padova and Uniwersytet Jagielloński and Università \
+degli Studi di Ferrara (1499) ",
+		height=0.52778,
+		label="Nicolaus (Mikołaj Kopernik) Copernicus \nUniversità di Bologna and Università degli Studi di Padova and Uniwersytet Jagiello&#\
+324;ski and Università degli Studi di Ferrara (1499)",
+		pos="967,2091",
+		width=10.34];
+	126177 -> 126827	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 967 2071.83 967 2064.13 967 2054.97 967 2046.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 970.5 2046.41 967 2036.41 963.5 2046.41 ",
+		pos="e,967,2036.4 967,2071.8 967,2064.1 967,2055 967,2046.4"];
+	126112	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 757 2168.8 0 201 33 -Domenico Maria Novara da Ferrara  F 14 11 -Times-Roman c 7 -#000000 T 757 \
+2153.8 0 218 41 -Università degli Studi di Firenze (1483) ",
+		height=0.52778,
+		label="Domenico Maria Novara da Ferrara \nUniversità degli Studi di Firenze (1483)",
+		pos="757,2165",
+		width=3.25];
+	126112 -> 126177	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 809.72 2145.92 838.55 2136.04 874.45 2123.73 904.66 2113.37 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 905.93 2116.64 914.26 2110.08 903.66 2110.02 ",
+		pos="e,914.26,2110.1 809.72,2145.9 838.55,2136 874.45,2123.7 904.66,2113.4"];
+	126888	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 828 2235.3 0 73 13 -Luca  Pacioli ",
+		height=0.5,
+		label="Luca  Pacioli",
+		pos="828,2239",
+		width=1.2292];
+	126888 -> 126112	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 811.17 2220.94 802.48 2212.12 791.7 2201.19 782.05 2191.4 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 784.46 2188.86 774.95 2184.2 779.48 2193.78 ",
+		pos="e,774.95,2184.2 811.17,2220.9 802.48,2212.1 791.7,2201.2 782.05,2191.4"];
+	126109 -> 126112	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 657.56 2219.83 674.89 2210.45 696.21 2198.91 714.65 2188.92 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 716.32 2192 723.45 2184.16 712.99 2185.85 ",
+		pos="e,723.45,2184.2 657.56,2219.8 674.89,2210.5 696.21,2198.9 714.65,2188.9"];
+	126087	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 637 2316.8 0 126 21 -Georg  von Peuerbach  F 14 11 -Times-Roman c 7 -#000000 T 637 2301.8 0 \
+134 24 -Universität Wien (1440) ",
+		height=0.52778,
+		label="Georg  von Peuerbach \nUniversität Wien (1440)",
+		pos="637,2313",
+		width=2.0694];
+	126087 -> 126109	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 633.72 2293.83 632.33 2286.13 630.68 2276.97 629.13 2268.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 632.55 2267.63 627.32 2258.41 625.66 2268.88 ",
+		pos="e,627.32,2258.4 633.72,2293.8 632.33,2286.1 630.68,2277 629.13,2268.4"];
+	126887	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 739 2390.8 0 143 23 -Johannes   von Gmunden  F 14 11 -Times-Roman c 7 -#000000 T 739 2375.8 \
+0 134 24 -Universität Wien (1406) ",
+		height=0.52778,
+		label="Johannes   von Gmunden \nUniversität Wien (1406)",
+		pos="739,2387",
+		width=2.2014];
+	126887 -> 126087	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 713.26 2367.83 700.46 2358.79 684.81 2347.75 671.03 2338.02 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 672.92 2335.07 662.73 2332.16 668.88 2340.79 ",
+		pos="e,662.73,2332.2 713.26,2367.8 700.46,2358.8 684.81,2347.7 671.03,2338"];
+	127264	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 790 2464.8 0 153 27 -Heinrich   von Langenstein  F 14 11 -Times-Roman c 7 -#000000 T 790 2449.8 \
+0 144 27 -Université de Paris (1375) ",
+		height=0.52778,
+		label="Heinrich   von Langenstein \nUniversité de Paris (1375)",
+		pos="790,2461",
+		width=2.3403];
+	127264 -> 126887	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 777.13 2441.83 771.32 2433.62 764.33 2423.76 757.94 2414.73 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 760.68 2412.55 752.04 2406.41 754.97 2416.6 ",
+		pos="e,752.04,2406.4 777.13,2441.8 771.32,2433.6 764.33,2423.8 757.94,2414.7"];
+	199357	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 790 2531.3 0 87 14 -Nicole  Oresme ",
+		height=0.5,
+		label="Nicole  Oresme",
+		pos="790,2535",
+		width=1.4236];
+	199357 -> 127264	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 790 2516.94 790 2508.99 790 2499.31 790 2490.31 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 793.5 2490.2 790 2480.2 786.5 2490.2 ",
+		pos="e,790,2480.2 790,2516.9 790,2509 790,2499.3 790,2490.3"];
+	126113	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1229 2168.8 0 322 56 -Leonhard (Leonard Vitreatoris z Dobczyc) von Dobschütz  F 14 11 -Times-Roman \
+c 7 -#000000 T 1229 2153.8 0 175 32 -Uniwersytet Jagielloński (1489) ",
+		height=0.52778,
+		label="Leonhard (Leonard Vitreatoris z Dobczyc) von Dobschütz \nUniwersytet Jagiello&#324;ski (1489)",
+		pos="1229,2165",
+		width=4.6806];
+	126113 -> 126177	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1163.22 2145.92 1126.63 2135.87 1080.92 2123.31 1042.82 2112.84 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1043.37 2109.36 1032.8 2110.08 1041.52 2116.11 ",
+		pos="e,1032.8,2110.1 1163.2,2145.9 1126.6,2135.9 1080.9,2123.3 1042.8,2112.8"];
+	126730	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 427 2094.8 0 103 17 -Johannes  Volmar  F 14 11 -Times-Roman c 7 -#000000 T 427 2079.8 0 282 \
+50 -Martin-Luther-Universität Halle-Wittenberg (1515) ",
+		height=0.52778,
+		label="Johannes  Volmar \nMartin-Luther-Universität Halle-Wittenberg (1515)",
+		pos="427,2091",
+		width=4.125];
+	126730 -> 126827	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 562.22 2071.97 641.16 2061.45 740.78 2048.16 821.43 2037.41 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 822.23 2040.83 831.68 2036.04 821.3 2033.9 ",
+		pos="e,831.68,2036 562.22,2072 641.16,2061.4 740.78,2048.2 821.43,2037.4"];
+	126724	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 427 2168.8 0 109 19 -Bonifazius  Erasmi  F 14 11 -Times-Roman c 7 -#000000 T 427 2153.8 0 282 \
+50 -Martin-Luther-Universität Halle-Wittenberg (1509) ",
+		height=0.52778,
+		label="Bonifazius  Erasmi \nMartin-Luther-Universität Halle-Wittenberg (1509)",
+		pos="427,2165",
+		width=4.125];
+	126724 -> 126730	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 427 2145.83 427 2138.13 427 2128.97 427 2120.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 430.5 2120.41 427 2110.41 423.5 2120.41 ",
+		pos="e,427,2110.4 427,2145.8 427,2138.1 427,2129 427,2120.4"];
+	17865	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1862 836.8 0 127 21 -Simeon Denis Poisson  F 14 11 -Times-Roman c 7 -#000000 T 1862 821.8 0 \
+152 27 -École Polytechnique (1800) ",
+		height=0.52778,
+		label="Simeon Denis Poisson \nÉcole Polytechnique (1800)",
+		pos="1862,833",
+		width=2.3194];
+	17865 -> 55185	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1913.72 813.92 1941.88 804.08 1976.91 791.84 2006.47 781.51 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2007.98 784.69 2016.26 778.08 2005.67 778.08 ",
+		pos="e,2016.3,778.08 1913.7,813.92 1941.9,804.08 1976.9,791.84 2006.5,781.51"];
+	26995	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1860 762.8 0 93 16 -Michel  Chasles  F 14 11 -Times-Roman c 7 -#000000 T 1860 747.8 0 152 27 \
+-École Polytechnique (1814) ",
+		height=0.52778,
+		label="Michel  Chasles \nÉcole Polytechnique (1814)",
+		pos="1860,759",
+		width=2.3194];
+	17865 -> 26995	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1861.5 813.83 1861.28 806.13 1861.03 796.97 1860.79 788.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1864.29 788.31 1860.51 778.41 1857.29 788.51 ",
+		pos="e,1860.5,778.41 1861.5,813.83 1861.3,806.13 1861,796.97 1860.8,788.42"];
+	108295	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1869 903.3 0 124 21 -Pierre-Simon  Laplace ",
+		height=0.5,
+		label="Pierre-Simon  Laplace",
+		pos="1869,907",
+		width=1.9444];
+	108295 -> 17865	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1867.34 888.94 1866.57 880.99 1865.63 871.31 1864.75 862.31 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1868.22 861.81 1863.77 852.2 1861.25 862.49 ",
+		pos="e,1863.8,852.2 1867.3,888.94 1866.6,880.99 1865.6,871.31 1864.8,862.31"];
+	108266	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1873 977.3 0 140 23 -Jean Le Rond d'Alembert ",
+		height=0.5,
+		label="Jean Le Rond d'Alembert",
+		pos="1873,981",
+		width=2.1667];
+	108266 -> 108295	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1872.05 962.94 1871.6 954.81 1871.05 944.88 1870.54 935.7 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1874.02 935.23 1869.97 925.44 1867.03 935.62 ",
+		pos="e,1870,925.44 1872.1,962.94 1871.6,954.81 1871,944.88 1870.5,935.7"];
+	17864	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1654 910.8 0 130 22 -Joseph Louis Lagrange  F 14 11 -Times-Roman c 7 -#000000 T 1654 895.8 0 \
+151 28 -Università di Torino (1754) ",
+		height=0.52778,
+		label="Joseph Louis Lagrange \nUniversità di Torino (1754)",
+		pos="1654,907",
+		width=2.3125];
+	17864 -> 17865	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1706.22 887.92 1734.78 878.04 1770.33 865.73 1800.26 855.37 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1801.45 858.66 1809.76 852.08 1799.17 852.05 ",
+		pos="e,1809.8,852.08 1706.2,887.92 1734.8,878.04 1770.3,865.73 1800.3,855.37"];
+	146036	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1654 977.3 0 229 41 -Giovanni Battista (Giambattista) Beccaria ",
+		height=0.5,
+		label="Giovanni Battista (Giambattista) Beccaria",
+		pos="1654,981",
+		width=3.3958];
+	146036 -> 17864	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1654 962.94 1654 954.99 1654 945.31 1654 936.31 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1657.5 936.2 1654 926.2 1650.5 936.2 ",
+		pos="e,1654,926.2 1654,962.94 1654,954.99 1654,945.31 1654,936.31"];
+	38586	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1503 1354.8 0 93 16 -Leonhard  Euler  F 14 11 -Times-Roman c 7 -#000000 T 1503 1339.8 0 134 \
+25 -Universität Basel (1726) ",
+		height=0.52778,
+		label="Leonhard  Euler \nUniversität Basel (1726)",
+		pos="1503,1351",
+		width=2.0694];
+	38586 -> 17864	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 13 1503 1331.56 1503 1303.87 1503 1249.88 1503 1204 1503 1204 1503 1204 1503 1054 1503 1012.25 \
+1495.32 994.12 1522 962 1533.55 948.1 1549.24 937.73 1565.77 930.02 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1567.25 933.2 1575.02 926 1564.46 926.78 ",
+		pos="e,1575,926 1503,1331.6 1503,1303.9 1503,1249.9 1503,1204 1503,1204 1503,1204 1503,1054 1503,1012.2 1495.3,994.12 1522,962 1533.5,\
+948.1 1549.2,937.73 1565.8,930.02"];
+	53410	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1503 1428.8 0 101 18 -Johann  Bernoulli  F 14 11 -Times-Roman c 7 -#000000 T 1503 1413.8 0 134 \
+25 -Universität Basel (1690) ",
+		height=0.52778,
+		label="Johann  Bernoulli \nUniversität Basel (1690)",
+		pos="1503,1425",
+		width=2.0694];
+	53410 -> 38586	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1503 1405.83 1503 1398.13 1503 1388.97 1503 1380.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1506.5 1380.41 1503 1370.41 1499.5 1380.41 ",
+		pos="e,1503,1370.4 1503,1405.8 1503,1398.1 1503,1389 1503,1380.4"];
+	129628	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1727 1798.8 0 107 19 -Nikolaus  Eglinger  F 14 11 -Times-Roman c 7 -#000000 T 1727 1783.8 0 \
+134 25 -Universität Basel (1660) ",
+		height=0.52778,
+		label="Nikolaus  Eglinger \nUniversität Basel (1660)",
+		pos="1727,1795",
+		width=2.0694];
+	129628 -> 53410	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 10 1720.37 1775.84 1711 1748.5 1695 1694.97 1695 1648 1695 1648 1695 1648 1695 1572 1695 1508.76 \
+1628.19 1469.33 1573.39 1447.62 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1574.6 1444.34 1564.01 1444.03 1572.1 1450.87 ",
+		pos="e,1564,1444 1720.4,1775.8 1711,1748.5 1695,1695 1695,1648 1695,1648 1695,1648 1695,1572 1695,1508.8 1628.2,1469.3 1573.4,1447.6"];
+	129708	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1727 1872.8 0 130 22 -Johann  Caspar Bauhin  F 14 11 -Times-Roman c 7 -#000000 T 1727 1857.8 \
+0 134 25 -Universität Basel (1649) ",
+		height=0.52778,
+		label="Johann  Caspar Bauhin \nUniversität Basel (1649)",
+		pos="1727,1869",
+		width=2.0694];
+	129708 -> 129628	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1727 1849.83 1727 1842.13 1727 1832.97 1727 1824.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1730.5 1824.41 1727 1814.41 1723.5 1824.41 ",
+		pos="e,1727,1814.4 1727,1849.8 1727,1842.1 1727,1833 1727,1824.4"];
+	125125	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1830 1946.8 0 121 19 -Emmanuel  Stupanus  F 14 11 -Times-Roman c 7 -#000000 T 1830 1931.8 0 \
+134 25 -Universität Basel (1613) ",
+		height=0.52778,
+		label="Emmanuel  Stupanus \nUniversität Basel (1613)",
+		pos="1830,1943",
+		width=2.0694];
+	125125 -> 129628	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 7 1830.02 1923.8 1829.2 1904 1825.32 1872.2 1810 1850 1801.51 1837.7 1789.22 1827.53 1776.68 \
+1819.45 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1778.37 1816.39 1768 1814.2 1774.74 1822.37 ",
+		pos="e,1768,1814.2 1830,1923.8 1829.2,1904 1825.3,1872.2 1810,1850 1801.5,1837.7 1789.2,1827.5 1776.7,1819.5"];
+	125125 -> 129708	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1804.01 1923.83 1791.08 1914.79 1775.28 1903.75 1761.36 1894.02 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1763.18 1891.02 1752.98 1888.16 1759.17 1896.76 ",
+		pos="e,1753,1888.2 1804,1923.8 1791.1,1914.8 1775.3,1903.7 1761.4,1894"];
+	130248	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2602 2020.8 0 70 13 -Petrus  Ryff  F 14 11 -Times-Roman c 7 -#000000 T 2602 2005.8 0 134 25 \
+-Universität Basel (1584) ",
+		height=0.52778,
+		label="Petrus  Ryff \nUniversität Basel (1584)",
+		pos="2602,2017",
+		width=2.0694];
+	130248 -> 125125	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 7 2527.32 2003.18 2514.24 2001.23 2500.75 1999.4 2488 1998 2237.15 1970.39 2168.95 1996.2 1914.46 \
+1961.93 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1914.93 1958.46 1904.55 1960.58 1913.99 1965.4 ",
+		pos="e,1904.6,1960.6 2527.3,2003.2 2514.2,2001.2 2500.7,1999.4 2488,1998 2237.1,1970.4 2168.9,1996.2 1914.5,1961.9"];
+	182090	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2630 2094.8 0 71 14 -Felix  Plater  F 14 11 -Times-Roman c 7 -#000000 T 2630 2079.8 0 181 33 \
+-Université de Montpellier (1557) ",
+		height=0.52778,
+		label="Felix  Plater \nUniversité de Montpellier (1557)",
+		pos="2630,2091",
+		width=2.7292];
+	182090 -> 130248	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2622.93 2071.83 2619.87 2063.96 2616.22 2054.57 2612.83 2045.85 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2616.05 2044.46 2609.16 2036.41 2609.52 2047 ",
+		pos="e,2609.2,2036.4 2622.9,2071.8 2619.9,2064 2616.2,2054.6 2612.8,2045.9"];
+	158329 -> 182090	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2791.77 2145.92 2762.12 2136.04 2725.2 2123.73 2694.12 2113.37 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2694.84 2109.93 2684.25 2110.08 2692.63 2116.57 ",
+		pos="e,2684.2,2110.1 2791.8,2145.9 2762.1,2136 2725.2,2123.7 2694.1,2113.4"];
+	54440	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1311 1502.8 0 94 17 -Jacob  Bernoulli  F 14 11 -Times-Roman c 7 -#000000 T 1311 1487.8 0 134 \
+25 -Universität Basel (1684) ",
+		height=0.52778,
+		label="Jacob  Bernoulli \nUniversität Basel (1684)",
+		pos="1311,1499",
+		width=2.0694];
+	54440 -> 53410	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1359.45 1479.83 1385.59 1470.03 1418.01 1457.87 1445.43 1447.59 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1446.76 1450.83 1454.9 1444.04 1444.31 1444.27 ",
+		pos="e,1454.9,1444 1359.4,1479.8 1385.6,1470 1418,1457.9 1445.4,1447.6"];
+	143011	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1311 1576.8 0 124 21 -Nicolas  Malebranche  F 14 11 -Times-Roman c 7 -#000000 T 1311 1561.8 \
+0 37 6 -(1672) ",
+		height=0.52778,
+		label="Nicolas  Malebranche \n(1672)",
+		pos="1311,1573",
+		width=1.9444];
+	143011 -> 54440	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1311 1553.83 1311 1546.13 1311 1536.97 1311 1528.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1314.5 1528.41 1311 1518.41 1307.5 1528.41 ",
+		pos="e,1311,1518.4 1311,1553.8 1311,1546.1 1311,1537 1311,1528.4"];
+	60985 -> 143011	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1311 1627.83 1311 1620.13 1311 1610.97 1311 1602.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1314.5 1602.41 1311 1592.41 1307.5 1602.41 ",
+		pos="e,1311,1592.4 1311,1627.8 1311,1620.1 1311,1611 1311,1602.4"];
+	125561	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1152 1724.8 0 115 20 -Christiaan  Huygens  F 14 11 -Times-Roman c 7 -#000000 T 1152 1709.8 0 \
+148 27 -Université d'Angers (1655) ",
+		height=0.52778,
+		label="Christiaan  Huygens \nUniversité d'Angers (1655)",
+		pos="1152,1721",
+		width=2.2778];
+	125561 -> 60985	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1192.12 1701.83 1213.29 1692.24 1239.45 1680.4 1261.83 1670.27 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1263.5 1673.35 1271.17 1666.04 1260.61 1666.97 ",
+		pos="e,1271.2,1666 1192.1,1701.8 1213.3,1692.2 1239.4,1680.4 1261.8,1670.3"];
+	125416	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 979 1791.3 0 135 24 -Jan Jansz Stampioen, Jr. ",
+		height=0.5,
+		label="Jan Jansz Stampioen, Jr.",
+		pos="979,1795",
+		width=2.0903];
+	125416 -> 125561	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1020 1776.94 1043.65 1767.09 1073.66 1754.6 1099.08 1744.02 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1100.69 1747.15 1108.58 1740.07 1098 1740.68 ",
+		pos="e,1108.6,1740.1 1020,1776.9 1043.7,1767.1 1073.7,1754.6 1099.1,1744"];
+	125450	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1153 1798.8 0 136 25 -Frans  van Schooten, Jr.  F 14 11 -Times-Roman c 7 -#000000 T 1153 1783.8 \
+0 145 26 -Universiteit Leiden (1635) ",
+		height=0.52778,
+		label="Frans  van Schooten, Jr. \nUniversiteit Leiden (1635)",
+		pos="1153,1795",
+		width=2.2292];
+	125450 -> 125561	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1152.75 1775.83 1152.64 1768.13 1152.51 1758.97 1152.39 1750.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1155.89 1750.36 1152.26 1740.41 1148.9 1750.46 ",
+		pos="e,1152.3,1740.4 1152.7,1775.8 1152.6,1768.1 1152.5,1759 1152.4,1750.4"];
+	125434	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1111 1872.8 0 100 16 -Marin  Mersenne  F 14 11 -Times-Roman c 7 -#000000 T 1111 1857.8 0 202 \
+36 -Université Paris IV-Sorbonne (1611) ",
+		height=0.52778,
+		label="Marin  Mersenne \nUniversité Paris IV-Sorbonne (1611)",
+		pos="1111,1869",
+		width=3.0278];
+	125434 -> 125450	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1121.6 1849.83 1126.29 1841.79 1131.9 1832.17 1137.08 1823.29 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1140.24 1824.81 1142.26 1814.41 1134.2 1821.29 ",
+		pos="e,1142.3,1814.4 1121.6,1849.8 1126.3,1841.8 1131.9,1832.2 1137.1,1823.3"];
+	125408	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1498 1872.8 0 91 16 -Jacobus  Golius  F 14 11 -Times-Roman c 7 -#000000 T 1498 1857.8 0 145 \
+26 -Universiteit Leiden (1612) ",
+		height=0.52778,
+		label="Jacobus  Golius \nUniversiteit Leiden (1612)",
+		pos="1498,1869",
+		width=2.2292];
+	125408 -> 125450	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1417.55 1851.21 1365.35 1840.32 1297.24 1826.1 1243.2 1814.82 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1243.78 1811.37 1233.28 1812.75 1242.35 1818.22 ",
+		pos="e,1233.3,1812.8 1417.5,1851.2 1365.3,1840.3 1297.2,1826.1 1243.2,1814.8"];
+	125378	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1656 1946.8 0 104 17 -Thomas  Erpenius  F 14 11 -Times-Roman c 7 -#000000 T 1656 1931.8 0 145 \
+26 -Universiteit Leiden (1608) ",
+		height=0.52778,
+		label="Thomas  Erpenius \nUniversiteit Leiden (1608)",
+		pos="1656,1943",
+		width=2.2292];
+	125378 -> 125408	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1616.13 1923.83 1595.09 1914.24 1569.1 1902.4 1546.86 1892.27 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1548.13 1889 1537.58 1888.04 1545.23 1895.37 ",
+		pos="e,1537.6,1888 1616.1,1923.8 1595.1,1914.2 1569.1,1902.4 1546.9,1892.3"];
+	131577	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 2402 2020.8 0 126 23 -Joseph Justus Scaliger  F 14 11 -Times-Roman c 7 -#000000 T 2402 2005.8 \
+0 139 25 -Collège de France (1563) ",
+		height=0.52778,
+		label="Joseph Justus Scaliger \nCollège de France (1563)",
+		pos="2402,2017",
+		width=2.1458];
+	131577 -> 125378	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 7 2324.61 2001.67 2315.66 2000.29 2306.64 1999.03 2298 1998 2057.08 1969.38 1991.46 1993.52 \
+1746.31 1961.92 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1746.75 1958.45 1736.38 1960.62 1745.84 1965.39 ",
+		pos="e,1736.4,1960.6 2324.6,2001.7 2315.7,2000.3 2306.6,1999 2298,1998 2057.1,1969.4 1991.5,1993.5 1746.3,1961.9"];
+	131606 -> 131577	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 2427.42 2071.83 2423.66 2063.88 2419.17 2054.37 2415.02 2045.57 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 2418.13 2043.96 2410.7 2036.41 2411.8 2046.95 ",
+		pos="e,2410.7,2036.4 2427.4,2071.8 2423.7,2063.9 2419.2,2054.4 2415,2045.6"];
+	125302 -> 125408	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1457.63 1923.83 1463.85 1915.54 1471.33 1905.56 1478.16 1896.45 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1480.99 1898.51 1484.19 1888.41 1475.39 1894.31 ",
+		pos="e,1484.2,1888.4 1457.6,1923.8 1463.8,1915.5 1471.3,1905.6 1478.2,1896.5"];
+	125232	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1444 2013.3 0 115 19 -Ludolph  van Ceulen ",
+		height=0.5,
+		label="Ludolph  van Ceulen",
+		pos="1444,2017",
+		width=1.8125];
+	125232 -> 125302	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1444 1998.94 1444 1990.99 1444 1981.31 1444 1972.31 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1447.5 1972.2 1444 1962.2 1440.5 1972.2 ",
+		pos="e,1444,1962.2 1444,1998.9 1444,1991 1444,1981.3 1444,1972.3"];
+	143859	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 924 1724.8 0 240 41 -Bartholomäus Leonhard Schwendendörffer  F 14 11 -Times-Roman c 7 -#000000 \
+T 924 1709.8 0 145 27 -Universität Leipzig (1656) ",
+		height=0.52778,
+		label="Bartholomäus Leonhard Schwendendörffer \nUniversität Leipzig (1656)",
+		pos="924,1721",
+		width=3.5556];
+	143859 -> 60985	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1021.16 1701.92 1076.81 1691.57 1146.75 1678.56 1203.97 1667.91 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1204.95 1671.29 1214.14 1666.02 1203.67 1664.41 ",
+		pos="e,1214.1,1666 1021.2,1701.9 1076.8,1691.6 1146.7,1678.6 1204,1667.9"];
+	137705	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1333 1724.8 0 103 17 -Jakob  Thomasius  F 14 11 -Times-Roman c 7 -#000000 T 1333 1709.8 0 145 \
+27 -Universität Leipzig (1643) ",
+		height=0.52778,
+		label="Jakob  Thomasius \nUniversität Leipzig (1643)",
+		pos="1333,1721",
+		width=2.2292];
+	137705 -> 60985	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1327.45 1701.83 1325.07 1694.05 1322.24 1684.77 1319.6 1676.13 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1322.9 1674.95 1316.63 1666.41 1316.2 1677 ",
+		pos="e,1316.6,1666.4 1327.4,1701.8 1325.1,1694 1322.2,1684.8 1319.6,1676.1"];
+	143630	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1333 1798.8 0 103 19 -Friedrich  Leibniz  F 14 11 -Times-Roman c 7 -#000000 T 1333 1783.8 0 \
+145 27 -Universität Leipzig (1622) ",
+		height=0.52778,
+		label="Friedrich  Leibniz \nUniversität Leipzig (1622)",
+		pos="1333,1795",
+		width=2.2292];
+	143630 -> 137705	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1333 1775.83 1333 1768.13 1333 1758.97 1333 1750.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1336.5 1750.41 1333 1740.41 1329.5 1750.41 ",
+		pos="e,1333,1740.4 1333,1775.8 1333,1768.1 1333,1759 1333,1750.4"];
+	143084	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 893 1650.8 0 96 17 -Peter  Werenfels  F 14 11 -Times-Roman c 7 -#000000 T 893 1635.8 0 134 25 \
+-Universität Basel (1649) ",
+		height=0.52778,
+		label="Peter  Werenfels \nUniversität Basel (1649)",
+		pos="893,1647",
+		width=2.0694];
+	143084 -> 54440	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 944.67 1627.95 1022 1600.94 1167.5 1550.12 1249.95 1521.32 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1251.16 1524.61 1259.44 1518.01 1248.85 1518 ",
+		pos="e,1259.4,1518 944.67,1628 1022,1600.9 1167.5,1550.1 1250,1521.3"];
+	143083	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 494 1946.8 0 124 22 -Theodor  Zwinger, Jr.  F 14 11 -Times-Roman c 7 -#000000 T 494 1931.8 0 \
+134 25 -Universität Basel (1630) ",
+		height=0.52778,
+		label="Theodor  Zwinger, Jr. \nUniversität Basel (1630)",
+		pos="494,1943",
+		width=2.0694];
+	143083 -> 143084	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 7 513.1 1923.85 558.25 1881.55 676.08 1774.47 787 1702 804.75 1690.4 825.31 1679.42 843.57 \
+1670.43 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 845.13 1673.56 852.6 1666.05 842.08 1667.26 ",
+		pos="e,852.6,1666.1 513.1,1923.9 558.25,1881.5 676.08,1774.5 787,1702 804.75,1690.4 825.31,1679.4 843.57,1670.4"];
+	143082	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 428 2020.8 0 91 16 -Sebastian  Beck  F 14 11 -Times-Roman c 7 -#000000 T 428 2005.8 0 134 25 \
+-Universität Basel (1610) ",
+		height=0.52778,
+		label="Sebastian  Beck \nUniversität Basel (1610)",
+		pos="428,2017",
+		width=2.0694];
+	143082 -> 143083	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 444.65 1997.83 452.41 1989.37 461.78 1979.15 470.26 1969.9 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 472.94 1972.15 477.12 1962.41 467.78 1967.42 ",
+		pos="e,477.12,1962.4 444.65,1997.8 452.41,1989.4 461.78,1979.1 470.26,1969.9"];
+	143045	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 130 2094.8 0 133 22 -Johann Jacob Grynaeus  F 14 11 -Times-Roman c 7 -#000000 T 130 2079.8 0 \
+244 44 -Eberhard-Karls-Universität Tübingen (1564) ",
+		height=0.52778,
+		label="Johann Jacob Grynaeus \nEberhard-Karls-Universität Tübingen (1564)",
+		pos="130,2091",
+		width=3.6111];
+	143045 -> 143082	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 204.81 2071.92 247.05 2061.72 299.96 2048.94 343.67 2038.38 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 344.52 2041.77 353.41 2036.02 342.87 2034.97 ",
+		pos="e,353.41,2036 204.81,2071.9 247.05,2061.7 299.96,2048.9 343.67,2038.4"];
+	143044	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 130 2168.8 0 88 15 -Jacob  Andreae  F 14 11 -Times-Roman c 7 -#000000 T 130 2153.8 0 244 44 \
+-Eberhard-Karls-Universität Tübingen (1553) ",
+		height=0.52778,
+		label="Jacob  Andreae \nEberhard-Karls-Universität Tübingen (1553)",
+		pos="130,2165",
+		width=3.6111];
+	143044 -> 143045	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 130 2145.83 130 2138.13 130 2128.97 130 2120.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 133.5 2120.41 130 2110.41 126.5 2120.41 ",
+		pos="e,130,2110.4 130,2145.8 130,2138.1 130,2129 130,2120.4"];
+	152648	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 130 2242.8 0 90 16 -Jakob  Beuerlin  F 14 11 -Times-Roman c 7 -#000000 T 130 2227.8 0 244 44 \
+-Eberhard-Karls-Universität Tübingen (1551) ",
+		height=0.52778,
+		label="Jakob  Beuerlin \nEberhard-Karls-Universität Tübingen (1551)",
+		pos="130,2239",
+		width=3.6111];
+	152648 -> 143044	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 130 2219.83 130 2212.13 130 2202.97 130 2194.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 133.5 2194.41 130 2184.41 126.5 2194.41 ",
+		pos="e,130,2184.4 130,2219.8 130,2212.1 130,2203 130,2194.4"];
+	152647	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 130 2316.8 0 121 22 -Balthasar  Kaeuffelin  F 14 11 -Times-Roman c 7 -#000000 T 130 2301.8 0 \
+244 44 -Eberhard-Karls-Universität Tübingen (1521) ",
+		height=0.52778,
+		label="Balthasar  Kaeuffelin \nEberhard-Karls-Universität Tübingen (1521)",
+		pos="130,2313",
+		width=3.6111];
+	152647 -> 152648	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 130 2293.83 130 2286.13 130 2276.97 130 2268.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 133.5 2268.41 130 2258.41 126.5 2268.41 ",
+		pos="e,130,2258.4 130,2293.8 130,2286.1 130,2277 130,2268.4"];
+	182092	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 967 2168.8 0 82 14 -Simon  Sulzer  F 14 11 -Times-Roman c 7 -#000000 T 967 2153.8 0 134 25 -Universität \
+Basel (1532) ",
+		height=0.52778,
+		label="Simon  Sulzer \nUniversität Basel (1532)",
+		pos="967,2165",
+		width=2.0694];
+	182092 -> 143045	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 7 892.45 2147.41 889.26 2146.89 886.1 2146.42 883 2146 615.43 2109.7 542.92 2134.94 270.39 \
+2110.09 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 270.47 2106.58 260.19 2109.14 269.82 2113.55 ",
+		pos="e,260.19,2109.1 892.45,2147.4 889.26,2146.9 886.1,2146.4 883,2146 615.43,2109.7 542.92,2134.9 270.39,2110.1"];
+	182045 -> 182092	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 7 1405.47 2221.15 1401.95 2220.76 1398.45 2220.38 1395 2220 1245.46 2203.71 1204.56 2207.94 \
+1051.8 2184.03 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1052 2180.52 1041.58 2182.41 1050.91 2187.43 ",
+		pos="e,1041.6,2182.4 1405.5,2221.1 1401.9,2220.8 1398.5,2220.4 1395,2220 1245.5,2203.7 1204.6,2207.9 1051.8,2184"];
+	131399 -> 182092	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1032.79 2219.83 1021.96 2210.96 1008.76 2200.16 997.03 2190.57 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 999.15 2187.79 989.2 2184.16 994.72 2193.2 ",
+		pos="e,989.2,2184.2 1032.8,2219.8 1022,2211 1008.8,2200.2 997.03,2190.6"];
+	34266	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1846 540.8 0 146 27 -C. Émile (Charles) Picard  F 14 11 -Times-Roman c 7 -#000000 T 1846 525.8 \
+0 216 39 -École Normale Supérieure Paris (1877) ",
+		height=0.52778,
+		label="C. Émile (Charles) Picard \nÉcole Normale Supérieure Paris (1877)",
+		pos="1846,537",
+		width=3.2083];
+	34266 -> 24555	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1877.54 517.83 1893.68 508.54 1913.5 497.12 1930.73 487.2 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1932.55 490.19 1939.47 482.16 1929.06 484.12 ",
+		pos="e,1939.5,482.16 1877.5,517.83 1893.7,508.54 1913.5,497.12 1930.7,487.2"];
+	34254	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 1857 688.8 0 97 16 -Gaston  Darboux  F 14 11 -Times-Roman c 7 -#000000 T 1857 673.8 0 216 39 \
+-École Normale Supérieure Paris (1866) ",
+		height=0.52778,
+		label="Gaston  Darboux \nÉcole Normale Supérieure Paris (1866)",
+		pos="1857,685",
+		width=3.2083];
+	34254 -> 34266	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1855.63 665.8 1853.75 640.89 1850.36 595.89 1848.15 566.49 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1851.63 566.13 1847.39 556.43 1844.65 566.66 ",
+		pos="e,1847.4,556.43 1855.6,665.8 1853.8,640.89 1850.4,595.89 1848.1,566.49"];
+	26995 -> 34254	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 1859.24 739.83 1858.92 732.13 1858.54 722.97 1858.18 714.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 1861.68 714.26 1857.77 704.41 1854.69 714.55 ",
+		pos="e,1857.8,704.41 1859.2,739.83 1858.9,732.13 1858.5,722.97 1858.2,714.42"];
+}

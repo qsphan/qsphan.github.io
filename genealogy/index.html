@@ -1,0 +1,58 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta name="MSSmartTagsPreventParsing" content="true" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>Quoc-Sang Phan - Math Genealogy</title>
+	<script type="text/javascript" src="canviz-0.1/prototype/prototype.js"></script>
+	<script type="text/javascript" src="canviz-0.1/path/path.js"></script>
+	<script type="text/javascript" src="canviz-0.1/canviz.js"></script>
+	<script type="text/javascript" src="canviz-0.1/x11colors.js"></script>
+	<script type="text/javascript"><!--
+
+var canviz;
+var scale = 0.5;
+
+document.observe('dom:loaded', function() {
+  canviz = new Canviz('graph_container', 'sang.gv');
+  canviz.setScale(scale);
+}
+);
+
+function zoom_in() {
+  scale=scale+0.1;
+	canviz.setScale(scale);
+	canviz.draw();
+}
+
+function zoom_out() {
+  scale=scale-0.1;
+	canviz.setScale(scale);
+	canviz.draw();
+}
+
+// --></script>
+</head>
+<body>
+
+Thanks to 
+<ul>
+<li><a href="http://www.genealogy.ams.org/id.php?id=215752">Mathematics Genealogy Project</a>
+<li><a href="http://www.davidalber.net/geneagrapher/">Mathematics Genealogy Grapher</a>
+<pre>
+sudo easy_install http://www.davidalber.net/dist/geneagrapher/Geneagrapher-0.2.1-r2.tar.gz
+ggrapher -f sang.dot -a 215752
+dot -Txdot sang.dot -o sang.gv
+<li><a href="http://code.google.com/p/canviz/">Canviz</a>
+</ul>
+
+<input type="button" value="Zoom in" onClick="zoom_in()"> 
+<input type="button" value="Zoom out" onClick="zoom_out()"> 
+
+<div id="graph_container"></div>
+
+<div id="debug_output"></div>
+
+</body>
+</html>
