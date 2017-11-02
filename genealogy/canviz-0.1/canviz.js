@@ -600,7 +600,7 @@ var Canviz = Class.create({
 											break;
 										case 'xdotversion':
 											if (0 > this.versionCompare(this.maxXdotVersion, attrHash.get('xdotversion'))) {
-												debug('unsupported xdotversion ' + attrHash.get('xdotversion') + '; this script currently supports up to xdotversion ' + this.maxXdotVersion);
+												// debug('unsupported xdotversion ' + attrHash.get('xdotversion') + '; this script currently supports up to xdotversion ' + this.maxXdotVersion);
 											}
 											break;
 									}
