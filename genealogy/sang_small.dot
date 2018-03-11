@@ -1,0 +1,52 @@
+digraph genealogy {
+    graph [charset="utf-8"];
+    node [shape=plaintext];
+    edge [style=bold];
+
+    215752 [label="Quoc-Sang  Phan \nQueen Mary, University of London (2015)"];
+    119793 [label="Pasquale  Malacaria \nUniversité Paris Diderot - Paris 7 (1993)"];
+    82341 [label="Jean-Yves  Girard \nUniversité Paris Diderot - Paris 7 (1972)"];
+    74339 [label="Jean-Louis  Krivine \nUniversité de Paris (1967)"];
+    77455 [label="Jean-Pierre  Kahane \nCentre national de la recherche scientifique (1954)"];
+    22456 [label="Szolem  Mandelbrojt \nUniversité Paris IV-Sorbonne (1923)"];
+    24555 [label="Jacques Salomon Hadamard \nÉcole Normale Supérieure Paris (1892)"];
+    34260 [label="Jules  Tannery \nÉcole Normale Supérieure Paris (1874)"];
+    32960 [label="Charles  Hermite \nÉcole Polytechnique (1841)"];
+    100550 [label="Eugène-Charles  Catalan \nUniversité de Paris (1841)"];
+    55185 [label="Joseph  Liouville \nFaculté des Sciences, Paris (1836)"];
+    17865 [label="Simeon Denis Poisson \nÉcole Polytechnique (1800)"];
+    108295 [label="Pierre-Simon  Laplace"];
+    17864 [label="Joseph Louis Lagrange \nUniversità di Torino (1754)"];
+    38586 [label="Leonhard  Euler \nUniversität Basel (1726)"];
+    53410 [label="Johann  Bernoulli \nUniversität Basel (1690)"];
+    54440 [label="Jacob  Bernoulli \nUniversität Basel (1684)"];
+    146036 [label="Giovanni Battista (Giambattista) Beccaria"];
+    34266 [label="C. Émile (Charles) Picard \nÉcole Normale Supérieure Paris (1877)"];
+    34254 [label="Gaston  Darboux \nÉcole Normale Supérieure Paris (1866)"];
+    26995 [label="Michel  Chasles \nÉcole Polytechnique (1814)"];
+    129628 [label="Nikolaus  Eglinger \nUniversität Basel (1660)"];
+
+    119793 -> 215752;
+    82341 -> 119793;
+    74339 -> 82341;
+    77455 -> 74339;
+    22456 -> 77455;
+    24555 -> 22456;
+    34266 -> 24555;
+    34260 -> 24555;
+    32960 -> 34260;
+    100550 -> 32960;
+    55185 -> 100550;
+    17865 -> 55185;
+    17864 -> 17865;
+    108295 -> 17865;
+    17865 -> 26995;
+    38586 -> 17864;
+    146036 -> 17864;
+    53410 -> 38586;
+    54440 -> 53410;
+    129628 -> 53410;
+    34254 -> 34266;
+    26995 -> 34254;
+
+}

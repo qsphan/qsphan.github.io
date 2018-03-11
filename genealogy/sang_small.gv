@@ -1,0 +1,207 @@
+digraph genealogy {
+	graph [_draw_="c 9 -#fffffe00 C 7 -#ffffff P 4 0 0 0 1148 547 1148 547 0 ",
+		bb="0,0,547,1148",
+		charset="utf-8",
+		xdotversion=1.6
+	];
+	node [label="\N",
+		shape=plaintext
+	];
+	edge [style=bold];
+	215752	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 241 22.8 0 100 16 -Quoc-Sang  Phan  F 14 11 -Times-Roman c 7 -#000000 T 241 7.8 0 235 39 -Queen \
+Mary, University of London (2015) ",
+		height=0.52778,
+		label="Quoc-Sang  Phan \nQueen Mary, University of London (2015)",
+		pos="241,19",
+		width=3.4792];
+	119793	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 241 96.8 0 115 20 -Pasquale  Malacaria  F 14 11 -Times-Roman c 7 -#000000 T 241 81.8 0 222 42 \
+-Université Paris Diderot - Paris 7 (1993) ",
+		height=0.52778,
+		label="Pasquale  Malacaria \nUniversité Paris Diderot - Paris 7 (1993)",
+		pos="241,93",
+		width=3.3056];
+	119793 -> 215752	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 241 73.83 241 66.13 241 56.97 241 48.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 244.5 48.41 241 38.41 237.5 48.41 ",
+		pos="e,241,38.413 241,73.831 241,66.131 241,56.974 241,48.417"];
+	82341	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 241 170.8 0 103 18 -Jean-Yves  Girard  F 14 11 -Times-Roman c 7 -#000000 T 241 155.8 0 222 42 \
+-Université Paris Diderot - Paris 7 (1972) ",
+		height=0.52778,
+		label="Jean-Yves  Girard \nUniversité Paris Diderot - Paris 7 (1972)",
+		pos="241,167",
+		width=3.3056];
+	82341 -> 119793	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 241 147.83 241 140.13 241 130.97 241 122.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 244.5 122.41 241 112.41 237.5 122.41 ",
+		pos="e,241,112.41 241,147.83 241,140.13 241,130.97 241,122.42"];
+	74339	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 241 244.8 0 112 20 -Jean-Louis  Krivine  F 14 11 -Times-Roman c 7 -#000000 T 241 229.8 0 144 \
+27 -Université de Paris (1967) ",
+		height=0.52778,
+		label="Jean-Louis  Krivine \nUniversité de Paris (1967)",
+		pos="241,241",
+		width=2.2222];
+	74339 -> 82341	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 241 221.83 241 214.13 241 204.97 241 196.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 244.5 196.41 241 186.41 237.5 196.41 ",
+		pos="e,241,186.41 241,221.83 241,214.13 241,204.97 241,196.42"];
+	77455	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 241 318.8 0 114 20 -Jean-Pierre  Kahane  F 14 11 -Times-Roman c 7 -#000000 T 241 303.8 0 277 \
+51 -Centre national de la recherche scientifique (1954) ",
+		height=0.52778,
+		label="Jean-Pierre  Kahane \nCentre national de la recherche scientifique (1954)",
+		pos="241,315",
+		width=4.0625];
+	77455 -> 74339	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 241 295.83 241 288.13 241 278.97 241 270.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 244.5 270.41 241 260.41 237.5 270.41 ",
+		pos="e,241,260.41 241,295.83 241,288.13 241,278.97 241,270.42"];
+	22456	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 241 392.8 0 121 20 -Szolem  Mandelbrojt  F 14 11 -Times-Roman c 7 -#000000 T 241 377.8 0 202 \
+36 -Université Paris IV-Sorbonne (1923) ",
+		height=0.52778,
+		label="Szolem  Mandelbrojt \nUniversité Paris IV-Sorbonne (1923)",
+		pos="241,389",
+		width=3.0278];
+	22456 -> 77455	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 241 369.83 241 362.13 241 352.97 241 344.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 244.5 344.41 241 334.41 237.5 344.41 ",
+		pos="e,241,334.41 241,369.83 241,362.13 241,352.97 241,344.42"];
+	24555	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 241 466.8 0 160 25 -Jacques Salomon Hadamard  F 14 11 -Times-Roman c 7 -#000000 T 241 451.8 \
+0 216 39 -École Normale Supérieure Paris (1892) ",
+		height=0.52778,
+		label="Jacques Salomon Hadamard \nÉcole Normale Supérieure Paris (1892)",
+		pos="241,463",
+		width=3.2083];
+	24555 -> 22456	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 241 443.83 241 436.13 241 426.97 241 418.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 244.5 418.41 241 408.41 237.5 418.41 ",
+		pos="e,241,408.41 241,443.83 241,436.13 241,426.97 241,418.42"];
+	34260	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 116 540.8 0 84 15 -Jules  Tannery  F 14 11 -Times-Roman c 7 -#000000 T 116 525.8 0 216 39 -École \
+Normale Supérieure Paris (1874) ",
+		height=0.52778,
+		label="Jules  Tannery \nÉcole Normale Supérieure Paris (1874)",
+		pos="116,537",
+		width=3.2083];
+	34260 -> 24555	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 147.54 517.83 163.68 508.54 183.5 497.12 200.73 487.2 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 202.55 490.19 209.47 482.16 199.06 484.12 ",
+		pos="e,209.47,482.16 147.54,517.83 163.68,508.54 183.5,497.12 200.73,487.2"];
+	32960	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 118 614.8 0 98 17 -Charles  Hermite  F 14 11 -Times-Roman c 7 -#000000 T 118 599.8 0 152 27 \
+-École Polytechnique (1841) ",
+		height=0.52778,
+		label="Charles  Hermite \nÉcole Polytechnique (1841)",
+		pos="118,611",
+		width=2.3194];
+	32960 -> 34260	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 117.5 591.83 117.28 584.13 117.03 574.97 116.79 566.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 120.29 566.31 116.51 556.41 113.29 566.51 ",
+		pos="e,116.51,556.41 117.5,591.83 117.28,584.13 117.03,574.97 116.79,566.42"];
+	100550	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 127 688.8 0 139 25 -Eugène-Charles  Catalan  F 14 11 -Times-Roman c 7 -#000000 T 127 673.8 \
+0 144 27 -Université de Paris (1841) ",
+		height=0.52778,
+		label="Eugène-Charles  Catalan \nUniversité de Paris (1841)",
+		pos="127,685",
+		width=2.2222];
+	100550 -> 32960	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 124.73 665.83 123.77 658.13 122.62 648.97 121.55 640.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 125.02 639.9 120.3 630.41 118.07 640.77 ",
+		pos="e,120.3,630.41 124.73,665.83 123.77,658.13 122.62,648.97 121.55,640.42"];
+	55185	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 130 762.8 0 98 18 -Joseph  Liouville  F 14 11 -Times-Roman c 7 -#000000 T 130 747.8 0 187 35 \
+-Faculté des Sciences, Paris (1836) ",
+		height=0.52778,
+		label="Joseph  Liouville \nFaculté des Sciences, Paris (1836)",
+		pos="130,759",
+		width=2.8125];
+	55185 -> 100550	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 129.24 739.83 128.92 732.13 128.54 722.97 128.18 714.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 131.68 714.26 127.77 704.41 124.69 714.55 ",
+		pos="e,127.77,704.41 129.24,739.83 128.92,732.13 128.54,722.97 128.18,714.42"];
+	17865	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 231 836.8 0 127 21 -Simeon Denis Poisson  F 14 11 -Times-Roman c 7 -#000000 T 231 821.8 0 152 \
+27 -École Polytechnique (1800) ",
+		height=0.52778,
+		label="Simeon Denis Poisson \nÉcole Polytechnique (1800)",
+		pos="231,833",
+		width=2.3194];
+	17865 -> 55185	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 205.51 813.83 192.83 804.79 177.34 793.75 163.69 784.02 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 165.65 781.12 155.48 778.16 161.59 786.82 ",
+		pos="e,155.48,778.16 205.51,813.83 192.83,804.79 177.34,793.75 163.69,784.02"];
+	26995	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 338 762.8 0 93 16 -Michel  Chasles  F 14 11 -Times-Roman c 7 -#000000 T 338 747.8 0 152 27 -École \
+Polytechnique (1814) ",
+		height=0.52778,
+		label="Michel  Chasles \nÉcole Polytechnique (1814)",
+		pos="338,759",
+		width=2.3194];
+	17865 -> 26995	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 258 813.83 271.43 804.79 287.85 793.75 302.3 784.02 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 304.67 786.65 311.01 778.16 300.76 780.84 ",
+		pos="e,311.01,778.16 258,813.83 271.43,804.79 287.85,793.75 302.3,784.02"];
+	108295	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 145 903.3 0 124 21 -Pierre-Simon  Laplace ",
+		height=0.5,
+		label="Pierre-Simon  Laplace",
+		pos="145,907",
+		width=1.9444];
+	108295 -> 17865	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 165.38 888.94 176.12 879.95 189.48 868.76 201.34 858.83 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 203.84 861.3 209.26 852.2 199.35 855.93 ",
+		pos="e,209.26,852.2 165.38,888.94 176.12,879.95 189.48,868.76 201.34,858.83"];
+	17864	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 317 910.8 0 130 22 -Joseph Louis Lagrange  F 14 11 -Times-Roman c 7 -#000000 T 317 895.8 0 151 \
+28 -Università di Torino (1754) ",
+		height=0.52778,
+		label="Joseph Louis Lagrange \nUniversità di Torino (1754)",
+		pos="317,907",
+		width=2.3125];
+	17864 -> 17865	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 295.3 887.83 284.81 879.05 272.05 868.37 260.68 858.85 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 262.61 855.9 252.69 852.16 258.12 861.27 ",
+		pos="e,252.69,852.16 295.3,887.83 284.81,879.05 272.05,868.37 260.68,858.85"];
+	38586	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 209 984.8 0 93 16 -Leonhard  Euler  F 14 11 -Times-Roman c 7 -#000000 T 209 969.8 0 134 25 -Universität \
+Basel (1726) ",
+		height=0.52778,
+		label="Leonhard  Euler \nUniversität Basel (1726)",
+		pos="209,981",
+		width=2.0694];
+	38586 -> 17864	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 236.25 961.83 249.94 952.71 266.69 941.54 281.38 931.74 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 283.38 934.62 289.76 926.16 279.49 928.8 ",
+		pos="e,289.76,926.16 236.25,961.83 249.94,952.71 266.69,941.54 281.38,931.74"];
+	53410	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 209 1058.8 0 101 18 -Johann  Bernoulli  F 14 11 -Times-Roman c 7 -#000000 T 209 1043.8 0 134 \
+25 -Universität Basel (1690) ",
+		height=0.52778,
+		label="Johann  Bernoulli \nUniversität Basel (1690)",
+		pos="209,1055",
+		width=2.0694];
+	53410 -> 38586	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 209 1035.83 209 1028.13 209 1018.97 209 1010.42 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 212.5 1010.41 209 1000.41 205.5 1010.41 ",
+		pos="e,209,1000.4 209,1035.8 209,1028.1 209,1019 209,1010.4"];
+	54440	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 125 1132.8 0 94 17 -Jacob  Bernoulli  F 14 11 -Times-Roman c 7 -#000000 T 125 1117.8 0 134 25 \
+-Universität Basel (1684) ",
+		height=0.52778,
+		label="Jacob  Bernoulli \nUniversität Basel (1684)",
+		pos="125,1129",
+		width=2.0694];
+	54440 -> 53410	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 146.2 1109.83 156.44 1101.05 168.9 1090.37 180.01 1080.85 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 182.5 1083.33 187.81 1074.16 177.94 1078.01 ",
+		pos="e,187.81,1074.2 146.2,1109.8 156.44,1101 168.9,1090.4 180.01,1080.8"];
+	146036	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 425 977.3 0 229 41 -Giovanni Battista (Giambattista) Beccaria ",
+		height=0.5,
+		label="Giovanni Battista (Giambattista) Beccaria",
+		pos="425,981",
+		width=3.3958];
+	146036 -> 17864	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 399.41 962.94 385.54 953.69 368.17 942.11 352.96 931.97 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 354.56 928.83 344.3 926.2 350.68 934.66 ",
+		pos="e,344.3,926.2 399.41,962.94 385.54,953.69 368.17,942.11 352.96,931.97"];
+	34266	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 366 540.8 0 146 27 -C. Émile (Charles) Picard  F 14 11 -Times-Roman c 7 -#000000 T 366 525.8 \
+0 216 39 -École Normale Supérieure Paris (1877) ",
+		height=0.52778,
+		label="C. Émile (Charles) Picard \nÉcole Normale Supérieure Paris (1877)",
+		pos="366,537",
+		width=3.2083];
+	34266 -> 24555	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 334.46 517.83 318.32 508.54 298.5 497.12 281.27 487.2 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 282.94 484.12 272.53 482.16 279.45 490.19 ",
+		pos="e,272.53,482.16 334.46,517.83 318.32,508.54 298.5,497.12 281.27,487.2"];
+	34254	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 359 688.8 0 97 16 -Gaston  Darboux  F 14 11 -Times-Roman c 7 -#000000 T 359 673.8 0 216 39 -École \
+Normale Supérieure Paris (1866) ",
+		height=0.52778,
+		label="Gaston  Darboux \nÉcole Normale Supérieure Paris (1866)",
+		pos="359,685",
+		width=3.2083];
+	34254 -> 34266	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 359.87 665.8 361.07 640.89 363.22 595.89 364.63 566.49 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 368.13 566.58 365.12 556.43 361.14 566.25 ",
+		pos="e,365.12,556.43 359.87,665.8 361.07,640.89 363.22,595.89 364.63,566.49"];
+	26995 -> 34254	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 343.3 739.83 345.57 732.05 348.27 722.77 350.79 714.13 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 354.19 714.99 353.63 704.41 347.47 713.03 ",
+		pos="e,353.63,704.41 343.3,739.83 345.57,732.05 348.27,722.77 350.79,714.13"];
+	129628	 [_ldraw_="F 14 11 -Times-Roman c 7 -#000000 T 293 1132.8 0 107 19 -Nikolaus  Eglinger  F 14 11 -Times-Roman c 7 -#000000 T 293 1117.8 0 134 \
+25 -Universität Basel (1660) ",
+		height=0.52778,
+		label="Nikolaus  Eglinger \nUniversität Basel (1660)",
+		pos="293,1129",
+		width=2.0694];
+	129628 -> 53410	 [_draw_="S 15 -setlinewidth(2) c 7 -#000000 B 4 271.8 1109.83 261.56 1101.05 249.1 1090.37 237.99 1080.85 ",
+		_hdraw_="S 15 -setlinewidth(2) S 5 -solid c 7 -#000000 C 7 -#000000 P 3 240.06 1078.01 230.19 1074.16 235.5 1083.33 ",
+		pos="e,230.19,1074.2 271.8,1109.8 261.56,1101 249.1,1090.4 237.99,1080.8"];
+}

@@ -12,24 +12,39 @@
 	<script type="text/javascript"><!--
 
 var canviz;
-var scale = 0.5;
+var scale = 0.7;
+var full = 0;
 
 document.observe('dom:loaded', function() {
-  canviz = new Canviz('graph_container', 'sang.gv');
-  canviz.setScale(scale);
+	canviz = new Canviz('graph_container', 'sang_small.gv');
+ 	canviz.setScale(scale);
 }
 );
 
 function zoom_in() {
-  scale=scale+0.1;
+	scale=scale+0.1;
 	canviz.setScale(scale);
 	canviz.draw();
 }
 
 function zoom_out() {
-  scale=scale-0.1;
+	scale=scale-0.1;
 	canviz.setScale(scale);
 	canviz.draw();
+}
+
+function switch_view() {
+  if(full == 0){
+  	canviz = new Canviz('graph_container', 'sang.gv');
+	scale = 0.5;
+	full = 1;
+  } else{
+	// canviz = new Canviz('graph_container', 'sang_small.gv');
+	// scale = 1;
+	// full = 0;
+  }
+  canviz.setScale(scale);
+  canviz.draw();
 }
 
 // --></script>
@@ -49,6 +64,7 @@ dot -Txdot sang.dot -o sang.gv
 
 <input type="button" value="Zoom in" onClick="zoom_in()"> 
 <input type="button" value="Zoom out" onClick="zoom_out()"> 
+<input type="button" value="Full view" onClick="switch_view()"> 
 
 <div id="graph_container"></div>
 
